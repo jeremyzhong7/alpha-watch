@@ -15,6 +15,31 @@ function labelClass(s){ return s==='稳定' ? 'ok' : (s==='一般' ? 'warn' : 'b
 let RAW_ROWS = [];
 let CURRENT_ROWS = [];
 
+function coerceRow(x){
+  // Backward-compat mapping for old schemas
+  const mapped = {...x};
+  if (mapped.change5m == null && mapped.priceChangePercent != null){
+    mapped.change5m = Number(mapped.priceChangePercent)/100; // fallback from 24h pct
+  }
+  if (mapped.volatility5m == null && mapped.volatility != null){
+    mapped.volatility5m = Number(mapped.volatility);
+  }
+  if (mapped.quoteVolume24h == null && mapped.quoteVolume != null){
+    mapped.quoteVolume24h = Number(mapped.quoteVolume);
+  }
+  if (mapped.shortSymbol == null && mapped.baseAsset){
+    mapped.shortSymbol = String(mapped.baseAsset);
+  }
+  if (mapped.stability == null && mapped.volatility5m != null){
+    const v = Number(mapped.volatility5m)||0;
+    mapped.stability = v<0.05 ? '稳定' : (v<0.15 ? '一般' : '较差');
+  }
+  if (typeof mapped.fourX !== 'boolean'){
+    mapped.fourX = Boolean(mapped.fourX);
+  }
+  return mapped;
+}
+
 function applySort(rows, key){
   const arr = rows.slice();
   switch(key){
@@ -57,8 +82,10 @@ async function load(){
     const j = await r.json();
     elUpdated.textContent = '上次更新：' + new Date(j.updatedAt).toLocaleString();
 
-    RAW_ROWS = j.rows || [];
+    RAW_ROWS = (j.rows || []).map(coerceRow);
     CURRENT_ROWS = applySort(RAW_ROWS, sorter.value);
+
+    console.info('alpha-watch rows sample:', RAW_ROWS[0]);
 
     // Top10 默认按 5m 波动率升序
     const top10 = RAW_ROWS.slice().sort((a,b)=>(a.volatility5m||0)-(b.volatility5m||0)).slice(0,10);
@@ -113,7 +140,7 @@ async function load(){
       html += '<tr>';
       html +=   '<td><span class="tag">' + (x.shortSymbol || '-') + '</span></td>';
       html +=   '<td>' + (x.chainId ? ('<span class="badge chain">' + x.chainId + '</span>') : '-') + '</td>';
-      html +=   '<td>' + (x.fourX ? '<span class="ok-icon">✔</span>' : '') + '</td>';
+      html +=   '<td>' + (x.fourX === true ? '<span class="ok-icon">✔</span>' : '') + '</td>';
       html +=   '<td>' + pct(x.change5m) + '</td>';
       html +=   '<td><span class="badge ' + labelClass(x.stability) + '">' + (x.stability||'-') + '</span> ' + pct(x.volatility5m) + '</td>';
       html +=   '<td>' + humanVol(x.quoteVolume24h) + '</td>';
