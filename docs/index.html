@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Alpha Watch | Binance Alpha 监控</title>
+  <title>Alpha Watch | 5m 低波动 Top10</title>
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body class="bg" data-theme="dark">
@@ -11,19 +11,13 @@
     <div class="row-between">
       <div>
         <h1>Alpha Watch</h1>
-        <p class="sub">BSC 仅 / 5m 指标 / 成交额 > 50M</p>
+        <p class="sub">BSC 仅 · 5m 指标 · 成交额 > 50M</p>
         <div id="updatedAt" class="muted"></div>
+        <div id="nextTick" class="small muted"></div>
       </div>
       <div class="toolbar">
-        <select id="sorter" class="input">
-          <option value="vol5-asc">按 5m 波动率 ↑</option>
-          <option value="vol5-desc">按 5m 波动率 ↓</option>
-          <option value="chg5-asc">按 5m 涨跌 ↑</option>
-          <option value="chg5-desc">按 5m 涨跌 ↓</option>
-          <option value="vol24-asc">按 成交额 ↑</option>
-          <option value="vol24-desc" selected>按 成交额 ↓</option>
-        </select>
         <button id="themeBtn" class="btn">切换主题</button>
+        <button id="refreshBtn" class="btn">立即刷新</button>
       </div>
     </div>
   </header>
@@ -33,19 +27,10 @@
       <h2>波动率最低 · 前十（5m）</h2>
       <div id="top10" class="table-wrap"></div>
     </section>
-
-    <section class="card">
-      <div class="row-between">
-        <h2>全部</h2>
-        <input id="search" class="input" placeholder="按代号搜索…" />
-      </div>
-      <div class="muted">波动率（5m）= (高 - 低) / 开盘；涨跌幅（5m）= (收 - 开) / 开</div>
-      <div id="table" class="table-wrap"></div>
-    </section>
   </main>
 
   <footer class="container muted small">
-    <span>数据源：Binance Alpha</span>
+    <span>数据源：Binance Alpha · 前端每隔一段时间自动刷新</span>
   </footer>
 
   <script src="./app.js"></script>

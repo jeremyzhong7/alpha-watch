@@ -4,7 +4,6 @@
   --chip:#111827; --chip2:#1f2937;
   --border:#1d2431; --thead:#0f1622;
 }
-/* Light theme overrides */
 [data-theme="light"]{
   --bg:#f7f9fc; --card:#ffffff; --muted:#5b6472; --text:#0c1320;
   --ok:#16a34a; --warn:#d97706; --bad:#dc2626;
@@ -16,10 +15,10 @@ body{margin:0;background:var(--bg);color:var(--text);font:14px/1.6 system-ui,-ap
 .container{max-width:1200px;margin:24px auto;padding:0 16px}
 h1{font-size:30px;margin:4px 0 6px} h2{font-size:18px;margin:0 0 12px}
 .sub{color:var(--muted);margin:0 0 4px} .muted{color:var(--muted)}
+.small{font-size:12px;color:var(--muted)}
 .card{background:linear-gradient(180deg,var(--card),var(--card));border:1px solid var(--border);border-radius:18px;padding:16px;margin:16px 0;box-shadow:0 8px 30px rgba(0,0,0,.05)}
 .row-between{display:flex;align-items:center;justify-content:space-between;gap:12px}
-.input{background:transparent;border:1px solid var(--border);border-radius:10px;color:var(--text);padding:10px 12px;min-width:220px;outline:none}
-.input::placeholder{color:var(--muted)}
+.toolbar{display:flex;gap:8px;align-items:center}
 .btn{border:1px solid var(--border);background:transparent;border-radius:10px;padding:10px 12px;color:var(--text);cursor:pointer}
 .btn:hover{opacity:.9}
 .table-wrap{overflow:auto;border:1px solid var(--border);border-radius:12px}
@@ -32,5 +31,3 @@ tbody td{padding:10px;border-top:1px solid var(--border);white-space:nowrap;vert
 .badge.warn{border-color:var(--warn);color:var(--warn)}
 .badge.bad{border-color:var(--bad);color:var(--bad)}
 .ok-icon{display:inline-block;width:18px;height:18px;border-radius:4px;border:1px solid var(--border);background:transparent;color:var(--ok);line-height:18px;text-align:center;font-weight:700}
-.small{font-size:12px;color:var(--muted)}
-.toolbar{display:flex;gap:8px;align-items:center}
