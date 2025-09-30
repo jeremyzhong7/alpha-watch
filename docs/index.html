@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Alpha Watch | Binance Alpha 监控</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body class="bg-surface">
+  <header class="container">
+    <h1>Alpha Watch</h1>
+    <p class="sub">自动监控 Binance Alpha：4×积分标记 & 波动率前十</p>
+    <div id="updatedAt" class="muted"></div>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <h2>波动率前十</h2>
+      <div id="top10" class="table-wrap"></div>
+    </section>
+
+    <section class="card">
+      <div class="row-between">
+        <h2>全量列表</h2>
+        <input id="search" class="input" placeholder="搜索…" />
+      </div>
+      <div class="muted">波动率 = (高 - 低) / 开</div>
+      <div id="table" class="table-wrap"></div>
+    </section>
+  </main>
+
+  <footer class="container muted">
+    <span>数据源：Binance Alpha 公共接口</span>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>
