@@ -1,14 +1,36 @@
 {
-  "updatedAt": "2025-10-13T14:48:13.638Z",
+  "updatedAt": "2025-10-13T15:00:45.548Z",
   "rows": [
+    {
+      "shortSymbol": "ASP",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0,
+      "volatility5m": 0,
+      "stability": "稳定",
+      "quoteVolume24h": 65004317.29341112,
+      "pair": "ALPHA_290USDT",
+      "listedDays": 81
+    },
+    {
+      "shortSymbol": "AOP",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0,
+      "volatility5m": 0.0000012209913815453448,
+      "stability": "稳定",
+      "quoteVolume24h": 5968512363.7834015,
+      "pair": "ALPHA_382USDT",
+      "listedDays": 24
+    },
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.000002083164076173274,
-      "volatility5m": 0.00002370661550412042,
+      "change5m": -1.666524317947472e-7,
+      "volatility5m": 0.00000207898908636934,
       "stability": "稳定",
-      "quoteVolume24h": 481290156.7527477,
+      "quoteVolume24h": 482486438.5986952,
       "pair": "ALPHA_22USDT",
       "listedDays": 179
     },
@@ -16,32 +38,21 @@
       "shortSymbol": "BTG",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.00007290282644105384,
-      "volatility5m": 0.0005098099751121934,
+      "change5m": -0.0000038238529396828555,
+      "volatility5m": 0.00011283042869213506,
       "stability": "稳定",
-      "quoteVolume24h": 138578942.12151277,
+      "quoteVolume24h": 140273209.1316845,
       "pair": "ALPHA_406USDT",
       "listedDays": 11
-    },
-    {
-      "shortSymbol": "AOP",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.001205260952472109,
-      "volatility5m": 0.0012053829054167451,
-      "stability": "稳定",
-      "quoteVolume24h": 5942693175.818163,
-      "pair": "ALPHA_382USDT",
-      "listedDays": 24
     },
     {
       "shortSymbol": "ALEO",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0020330895090402753,
-      "volatility5m": 0.0027589062691077853,
+      "change5m": 0.00010028649037298322,
+      "volatility5m": 0.0014529445903663936,
       "stability": "稳定",
-      "quoteVolume24h": 1042003368.171828,
+      "quoteVolume24h": 1042802518.0107481,
       "pair": "ALPHA_373USDT",
       "listedDays": 29
     },
@@ -49,45 +60,34 @@
       "shortSymbol": "NUMI",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0005015066724062553,
-      "volatility5m": 0.0032142344669249816,
+      "change5m": 0.0008667345968110095,
+      "volatility5m": 0.001993633309745958,
       "stability": "稳定",
-      "quoteVolume24h": 203913648.77946296,
+      "quoteVolume24h": 203967157.3372168,
       "pair": "ALPHA_387USDT",
       "listedDays": 22
-    },
-    {
-      "shortSymbol": "STBL",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.0012715277777777196,
-      "volatility5m": 0.006092569444444511,
-      "stability": "稳定",
-      "quoteVolume24h": 62176230.00467389,
-      "pair": "ALPHA_376USDT",
-      "listedDays": 27
-    },
-    {
-      "shortSymbol": "ASP",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.008533648790746667,
-      "volatility5m": 0.011644058885383734,
-      "stability": "稳定",
-      "quoteVolume24h": 65392957.14678289,
-      "pair": "ALPHA_290USDT",
-      "listedDays": 81
     },
     {
       "shortSymbol": "FROGGIE",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.006814310051107343,
-      "volatility5m": 0.011925042589437777,
+      "change5m": 0.001350258856587113,
+      "volatility5m": 0.002912457078005699,
       "stability": "稳定",
-      "quoteVolume24h": 115638480.8248774,
+      "quoteVolume24h": 114578795.96841615,
       "pair": "ALPHA_386USDT",
       "listedDays": 23
+    },
+    {
+      "shortSymbol": "STBL",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.005312229583079159,
+      "volatility5m": 0.005886045422949748,
+      "stability": "稳定",
+      "quoteVolume24h": 62277954.9362012,
+      "pair": "ALPHA_376USDT",
+      "listedDays": 27
     }
   ]
 }
