@@ -1,93 +1,104 @@
 {
-  "updatedAt": "2025-10-19T04:56:16.045Z",
+  "updatedAt": "2025-10-19T05:23:59.917Z",
   "rows": [
-    {
-      "shortSymbol": "BTG",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0,
-      "volatility5m": 0,
-      "stability": "稳定",
-      "quoteVolume24h": 275372640.4804579,
-      "pair": "ALPHA_406USDT",
-      "listedDays": 17
-    },
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0,
-      "volatility5m": 0,
+      "change5m": 1.874905284549852e-9,
+      "volatility5m": 1.0395308136151821e-7,
       "stability": "稳定",
-      "quoteVolume24h": 458213397.4183627,
+      "quoteVolume24h": 462942767.17075497,
       "pair": "ALPHA_22USDT",
       "listedDays": 185
-    },
-    {
-      "shortSymbol": "ASP",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0,
-      "volatility5m": 0,
-      "stability": "稳定",
-      "quoteVolume24h": 742937949.3068014,
-      "pair": "ALPHA_290USDT",
-      "listedDays": 87
     },
     {
       "shortSymbol": "NUMI",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0004422002278811789,
-      "volatility5m": 0.0004422002278811789,
+      "change5m": 0.00033369085925396554,
+      "volatility5m": 0.000594684781313212,
       "stability": "稳定",
-      "quoteVolume24h": 1049592703.22049,
+      "quoteVolume24h": 1126438693.7022085,
       "pair": "ALPHA_387USDT",
       "listedDays": 28
+    },
+    {
+      "shortSymbol": "MERL",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.002065604704176474,
+      "volatility5m": 0.002065604704176474,
+      "stability": "稳定",
+      "quoteVolume24h": 53783697.37579026,
+      "pair": "ALPHA_195USDT",
+      "listedDays": 152
     },
     {
       "shortSymbol": "CDL",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0006653225806451272,
-      "volatility5m": 0.002014919354838705,
+      "change5m": -0.0008529721257084008,
+      "volatility5m": 0.003866055393463428,
       "stability": "稳定",
-      "quoteVolume24h": 977684590.514798,
+      "quoteVolume24h": 981966313.284306,
       "pair": "ALPHA_423USDT",
       "listedDays": 8
-    },
-    {
-      "shortSymbol": "AOP",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.00021505376344092605,
-      "volatility5m": 0.002394838709677373,
-      "stability": "稳定",
-      "quoteVolume24h": 4218299774.4746237,
-      "pair": "ALPHA_382USDT",
-      "listedDays": 30
     },
     {
       "shortSymbol": "FROGGIE",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0022067363530778074,
-      "volatility5m": 0.002529616724738764,
+      "change5m": -0.0018971962616823245,
+      "volatility5m": 0.004669392523364519,
       "stability": "稳定",
-      "quoteVolume24h": 61428504.01823528,
+      "quoteVolume24h": 60081589.97036576,
       "pair": "ALPHA_386USDT",
       "listedDays": 29
+    },
+    {
+      "shortSymbol": "ASP",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.004224987340499959,
+      "volatility5m": 0.005213354729521165,
+      "stability": "稳定",
+      "quoteVolume24h": 716072714.8474493,
+      "pair": "ALPHA_290USDT",
+      "listedDays": 87
     },
     {
       "shortSymbol": "PINGPONG",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.002320689583153056,
-      "volatility5m": 0.012978516664230088,
+      "change5m": 0.0036978855216782736,
+      "volatility5m": 0.005874277276039596,
       "stability": "稳定",
-      "quoteVolume24h": 102246921.1631782,
+      "quoteVolume24h": 97840725.23858234,
       "pair": "ALPHA_368USDT",
       "listedDays": 38
+    },
+    {
+      "shortSymbol": "AOP",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.00799184597961495,
+      "volatility5m": 0.011640996602491644,
+      "stability": "稳定",
+      "quoteVolume24h": 4057912697.382081,
+      "pair": "ALPHA_382USDT",
+      "listedDays": 30
+    },
+    {
+      "shortSymbol": "BTG",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.015205763374381887,
+      "volatility5m": 0.015466427186105533,
+      "stability": "稳定",
+      "quoteVolume24h": 268115775.16294748,
+      "pair": "ALPHA_406USDT",
+      "listedDays": 17
     }
   ]
 }
