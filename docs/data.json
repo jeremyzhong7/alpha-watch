@@ -1,58 +1,47 @@
 {
-  "updatedAt": "2025-10-26T10:56:28.042Z",
+  "updatedAt": "2025-10-26T11:18:33.645Z",
   "rows": [
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 9.166153462490943e-9,
-      "volatility5m": 4.041440376150778e-8,
+      "change5m": 2.5352731153846896e-7,
+      "volatility5m": 0.0000015415793802984863,
       "stability": "稳定",
-      "quoteVolume24h": 388603369.8982882,
+      "quoteVolume24h": 387928341.8148323,
       "pair": "ALPHA_22USDT",
       "listedDays": 192
-    },
-    {
-      "shortSymbol": "MERL",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0000023512244156704014,
-      "volatility5m": 0.0000024232006732562712,
-      "stability": "稳定",
-      "quoteVolume24h": 2613240875.9353414,
-      "pair": "ALPHA_195USDT",
-      "listedDays": 159
     },
     {
       "shortSymbol": "BTG",
       "chainId": "56",
       "fourX": true,
-      "change5m": 1.3123416333988443e-9,
-      "volatility5m": 0.0000036745565958961593,
+      "change5m": 0.0008563011612458295,
+      "volatility5m": 0.0010480054883341683,
       "stability": "稳定",
-      "quoteVolume24h": 1409081593.6390197,
+      "quoteVolume24h": 1404165073.5715663,
       "pair": "ALPHA_406USDT",
       "listedDays": 24
     },
     {
-      "shortSymbol": "SLX",
+      "shortSymbol": "MERL",
       "chainId": "56",
-      "fourX": true,
-      "change5m": -0.000008475882262239693,
-      "volatility5m": 0.00001078748651557779,
+      "fourX": false,
+      "change5m": 0.0010939361648878213,
+      "volatility5m": 0.001333776590418434,
       "stability": "稳定",
-      "quoteVolume24h": 173242943.11463538,
-      "pair": "ALPHA_417USDT",
-      "listedDays": 18
+      "quoteVolume24h": 2652038617.6517167,
+      "pair": "ALPHA_195USDT",
+      "listedDays": 159
     },
     {
       "shortSymbol": "CDL",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.00004173564641564531,
-      "volatility5m": 0.0002775420486638289,
+      "change5m": -0.0005595934280144181,
+      "volatility5m": 0.0018086883876357873,
       "stability": "稳定",
-      "quoteVolume24h": 1383022372.2262652,
+      "quoteVolume24h": 1388123458.1800287,
       "pair": "ALPHA_423USDT",
       "listedDays": 15
     },
@@ -60,34 +49,45 @@
       "shortSymbol": "DOOD",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.00007556675062992959,
-      "volatility5m": 0.00037783375314877403,
+      "change5m": 0.0033709943489602635,
+      "volatility5m": 0.003963655169550104,
       "stability": "稳定",
-      "quoteVolume24h": 78254191.93289813,
+      "quoteVolume24h": 80727158.61913379,
       "pair": "ALPHA_177USDT",
       "listedDays": 170
-    },
-    {
-      "shortSymbol": "P",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.0006788098201154486,
-      "volatility5m": 0.0006788098201154486,
-      "stability": "稳定",
-      "quoteVolume24h": 599349021.5342517,
-      "pair": "ALPHA_408USDT",
-      "listedDays": 23
     },
     {
       "shortSymbol": "ANOME",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0003701476968482915,
-      "volatility5m": 0.001546731129211213,
+      "change5m": 0.002326868966148438,
+      "volatility5m": 0.004937763661801134,
       "stability": "稳定",
-      "quoteVolume24h": 263701806.98102987,
+      "quoteVolume24h": 260304336.0489705,
       "pair": "ALPHA_433USDT",
       "listedDays": 9
+    },
+    {
+      "shortSymbol": "P",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.006226246704928253,
+      "volatility5m": 0.011089463726099045,
+      "stability": "稳定",
+      "quoteVolume24h": 596020705.565904,
+      "pair": "ALPHA_408USDT",
+      "listedDays": 23
+    },
+    {
+      "shortSymbol": "SLX",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.012009607686148846,
+      "volatility5m": 0.03401441152922332,
+      "stability": "稳定",
+      "quoteVolume24h": 188430900.5133557,
+      "pair": "ALPHA_417USDT",
+      "listedDays": 18
     }
   ]
 }
