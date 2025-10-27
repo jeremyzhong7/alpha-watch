@@ -1,14 +1,47 @@
 {
-  "updatedAt": "2025-10-27T10:51:21.637Z",
+  "updatedAt": "2025-10-27T11:12:30.277Z",
   "rows": [
+    {
+      "shortSymbol": "KOGE",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -2.0832143740571049e-10,
+      "volatility5m": 1.4582499138187016e-9,
+      "stability": "稳定",
+      "quoteVolume24h": 388324555.30376524,
+      "pair": "ALPHA_22USDT",
+      "listedDays": 193
+    },
+    {
+      "shortSymbol": "CDL",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.0001452457109623075,
+      "volatility5m": 0.00029078220412919636,
+      "stability": "稳定",
+      "quoteVolume24h": 1144147736.3657632,
+      "pair": "ALPHA_423USDT",
+      "listedDays": 16
+    },
+    {
+      "shortSymbol": "MERL",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.0002687062559110902,
+      "volatility5m": 0.0003887363807613223,
+      "stability": "稳定",
+      "quoteVolume24h": 2796807131.270147,
+      "pair": "ALPHA_195USDT",
+      "listedDays": 160
+    },
     {
       "shortSymbol": "BTG",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0,
-      "volatility5m": 0,
+      "change5m": 0.0012283950617283832,
+      "volatility5m": 0.0014320987654320508,
       "stability": "稳定",
-      "quoteVolume24h": 1299960913.302564,
+      "quoteVolume24h": 1280776807.71633,
       "pair": "ALPHA_406USDT",
       "listedDays": 25
     },
@@ -16,43 +49,21 @@
       "shortSymbol": "P",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0,
-      "volatility5m": 0,
+      "change5m": 0.002162772925764207,
+      "volatility5m": 0.0027292576419214,
       "stability": "稳定",
-      "quoteVolume24h": 795883092.2348113,
+      "quoteVolume24h": 802986726.4614753,
       "pair": "ALPHA_408USDT",
       "listedDays": 24
-    },
-    {
-      "shortSymbol": "KOGE",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -2.4790246314182653e-8,
-      "volatility5m": 2.4790246314182653e-8,
-      "stability": "稳定",
-      "quoteVolume24h": 388237280.2961999,
-      "pair": "ALPHA_22USDT",
-      "listedDays": 193
-    },
-    {
-      "shortSymbol": "MERL",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 1.9199651030359518e-7,
-      "volatility5m": 0.000013895747430907927,
-      "stability": "稳定",
-      "quoteVolume24h": 2793048758.485508,
-      "pair": "ALPHA_195USDT",
-      "listedDays": 160
     },
     {
       "shortSymbol": "DOOD",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0,
-      "volatility5m": 0.00014508133958443935,
+      "change5m": 0.0034467710857933424,
+      "volatility5m": 0.0036454941557962136,
       "stability": "稳定",
-      "quoteVolume24h": 150413114.34642863,
+      "quoteVolume24h": 151365759.26319805,
       "pair": "ALPHA_177USDT",
       "listedDays": 171
     },
@@ -60,10 +71,10 @@
       "shortSymbol": "ANOME",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.00023823568006090293,
-      "volatility5m": 0.0003118721629887927,
+      "change5m": -0.003030333734405562,
+      "volatility5m": 0.00485485403077714,
       "stability": "稳定",
-      "quoteVolume24h": 322404455.6834175,
+      "quoteVolume24h": 322885631.61191046,
       "pair": "ALPHA_433USDT",
       "listedDays": 10
     },
@@ -71,23 +82,12 @@
       "shortSymbol": "SLX",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.00003787442291861459,
-      "volatility5m": 0.0003416756450537297,
+      "change5m": 0.005299295256562068,
+      "volatility5m": 0.006120077592562633,
       "stability": "稳定",
-      "quoteVolume24h": 237849682.250786,
+      "quoteVolume24h": 214890015.38393125,
       "pair": "ALPHA_417USDT",
       "listedDays": 19
-    },
-    {
-      "shortSymbol": "CDL",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.00021891418563924582,
-      "volatility5m": 0.0007297139521306844,
-      "stability": "稳定",
-      "quoteVolume24h": 1166718373.6313202,
-      "pair": "ALPHA_423USDT",
-      "listedDays": 16
     }
   ]
 }
