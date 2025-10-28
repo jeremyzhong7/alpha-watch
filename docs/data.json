@@ -1,47 +1,25 @@
 {
-  "updatedAt": "2025-10-28T15:54:55.914Z",
+  "updatedAt": "2025-10-28T16:29:55.849Z",
   "rows": [
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.000001416589344474255,
-      "volatility5m": 0.0000018748976618389897,
+      "change5m": -0.0000010432751907620068,
+      "volatility5m": 0.0000012009747353905309,
       "stability": "稳定",
-      "quoteVolume24h": 391370740.25064486,
+      "quoteVolume24h": 390769585.92417985,
       "pair": "ALPHA_22USDT",
       "listedDays": 194
-    },
-    {
-      "shortSymbol": "BTG",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.000013324660447645183,
-      "volatility5m": 0.00001903477592643445,
-      "stability": "稳定",
-      "quoteVolume24h": 1498148906.8020034,
-      "pair": "ALPHA_406USDT",
-      "listedDays": 26
-    },
-    {
-      "shortSymbol": "CDL",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.000023512847004579106,
-      "volatility5m": 0.000026002442570004684,
-      "stability": "稳定",
-      "quoteVolume24h": 1449676200.356219,
-      "pair": "ALPHA_423USDT",
-      "listedDays": 17
     },
     {
       "shortSymbol": "MERL",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.000850923663912691,
-      "volatility5m": 0.0012584612006258094,
+      "change5m": 0.0008382681564246519,
+      "volatility5m": 0.002005949720670345,
       "stability": "稳定",
-      "quoteVolume24h": 2419491917.6238914,
+      "quoteVolume24h": 2401662999.4585695,
       "pair": "ALPHA_195USDT",
       "listedDays": 161
     },
@@ -49,32 +27,43 @@
       "shortSymbol": "P",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0013017201301718953,
-      "volatility5m": 0.0039037656903765632,
+      "change5m": 0.0038681156750783176,
+      "volatility5m": 0.003976699207957279,
       "stability": "稳定",
-      "quoteVolume24h": 417433035.2648317,
+      "quoteVolume24h": 408429495.6621013,
       "pair": "ALPHA_408USDT",
       "listedDays": 25
     },
     {
-      "shortSymbol": "SLX",
+      "shortSymbol": "CDL",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.009378066810262417,
-      "volatility5m": 0.012967429678438926,
+      "change5m": 0.005070280976016827,
+      "volatility5m": 0.007042111684209507,
       "stability": "稳定",
-      "quoteVolume24h": 637084797.7996929,
-      "pair": "ALPHA_417USDT",
-      "listedDays": 20
+      "quoteVolume24h": 1461212282.9665058,
+      "pair": "ALPHA_423USDT",
+      "listedDays": 17
+    },
+    {
+      "shortSymbol": "BTG",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.007537688442211006,
+      "volatility5m": 0.008612210427135763,
+      "stability": "稳定",
+      "quoteVolume24h": 1508337187.015962,
+      "pair": "ALPHA_406USDT",
+      "listedDays": 26
     },
     {
       "shortSymbol": "DOOD",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.01091750040833685,
-      "volatility5m": 0.013166593641353303,
+      "change5m": 0.006480304955527187,
+      "volatility5m": 0.00887293519695043,
       "stability": "稳定",
-      "quoteVolume24h": 224402030.47070146,
+      "quoteVolume24h": 224517936.8132862,
       "pair": "ALPHA_177USDT",
       "listedDays": 172
     },
@@ -82,12 +71,23 @@
       "shortSymbol": "ANOME",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.050078488363273256,
-      "volatility5m": 0.050371568219949495,
-      "stability": "一般",
-      "quoteVolume24h": 133808029.7669099,
+      "change5m": 0.006109358010646078,
+      "volatility5m": 0.014169656481741797,
+      "stability": "稳定",
+      "quoteVolume24h": 130147818.15441743,
       "pair": "ALPHA_433USDT",
       "listedDays": 11
+    },
+    {
+      "shortSymbol": "SLX",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.02426802061697054,
+      "volatility5m": 0.024344949611508526,
+      "stability": "稳定",
+      "quoteVolume24h": 637887052.473817,
+      "pair": "ALPHA_417USDT",
+      "listedDays": 20
     }
   ]
 }
