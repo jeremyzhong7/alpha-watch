@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2025-10-30T19:22:35.974Z",
+  "updatedAt": "2025-10-30T19:37:25.820Z",
   "rows": [
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": -8.707816307846266e-7,
-      "volatility5m": 0.0000020832096426819287,
+      "change5m": -0.00001039497531614543,
+      "volatility5m": 0.00001041580734757657,
       "stability": "稳定",
-      "quoteVolume24h": 373690309.3763033,
+      "quoteVolume24h": 373576510.938091,
       "pair": "ALPHA_22USDT",
       "listedDays": 196
     },
@@ -16,21 +16,32 @@
       "shortSymbol": "CDL",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0001965908325675696,
-      "volatility5m": 0.00025795758417027163,
+      "change5m": 0.000029810702041950074,
+      "volatility5m": 0.00015582866976514075,
       "stability": "稳定",
-      "quoteVolume24h": 1364172720.7785196,
+      "quoteVolume24h": 1374722343.4020386,
       "pair": "ALPHA_423USDT",
       "listedDays": 19
+    },
+    {
+      "shortSymbol": "ANOME",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.000648621876482595,
+      "volatility5m": 0.000648621876482595,
+      "stability": "稳定",
+      "quoteVolume24h": 296567847.88270193,
+      "pair": "ALPHA_433USDT",
+      "listedDays": 13
     },
     {
       "shortSymbol": "BTG",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.00042828502327177224,
-      "volatility5m": 0.0007243638977207917,
+      "change5m": 0.0010057870508652673,
+      "volatility5m": 0.0019250947611936212,
       "stability": "稳定",
-      "quoteVolume24h": 1708965661.7036202,
+      "quoteVolume24h": 1702202032.013926,
       "pair": "ALPHA_406USDT",
       "listedDays": 28
     },
@@ -38,56 +49,45 @@
       "shortSymbol": "P",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0005321507760531318,
-      "volatility5m": 0.0008869179600887172,
+      "change5m": -0.0013271492610182013,
+      "volatility5m": 0.00201136212329678,
       "stability": "稳定",
-      "quoteVolume24h": 768555684.2014155,
+      "quoteVolume24h": 765175298.8623322,
       "pair": "ALPHA_408USDT",
       "listedDays": 27
-    },
-    {
-      "shortSymbol": "MERL",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.0013967588462682175,
-      "volatility5m": 0.002590722569134821,
-      "stability": "稳定",
-      "quoteVolume24h": 1863137358.4277382,
-      "pair": "ALPHA_195USDT",
-      "listedDays": 163
-    },
-    {
-      "shortSymbol": "DOOD",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0003254049766624138,
-      "volatility5m": 0.0029833026571349356,
-      "stability": "稳定",
-      "quoteVolume24h": 689621235.3629354,
-      "pair": "ALPHA_177USDT",
-      "listedDays": 174
     },
     {
       "shortSymbol": "AIO",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.005558519569232613,
-      "volatility5m": 0.005727097420168726,
+      "change5m": -0.0006876252770978724,
+      "volatility5m": 0.002378179291837002,
       "stability": "稳定",
-      "quoteVolume24h": 590821167.2501129,
+      "quoteVolume24h": 590936528.0968472,
       "pair": "ALPHA_361USDT",
       "listedDays": 52
     },
     {
-      "shortSymbol": "ANOME",
+      "shortSymbol": "DOOD",
       "chainId": "56",
-      "fourX": true,
-      "change5m": 0.002886174281513195,
-      "volatility5m": 0.0061713233460326975,
+      "fourX": false,
+      "change5m": -0.0009065732296957444,
+      "volatility5m": 0.002680192586245597,
       "stability": "稳定",
-      "quoteVolume24h": 295359857.84175694,
-      "pair": "ALPHA_433USDT",
-      "listedDays": 13
+      "quoteVolume24h": 691449033.3940821,
+      "pair": "ALPHA_177USDT",
+      "listedDays": 174
+    },
+    {
+      "shortSymbol": "MERL",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.0014339007561625498,
+      "volatility5m": 0.0032967780652873595,
+      "stability": "稳定",
+      "quoteVolume24h": 1863554528.7462933,
+      "pair": "ALPHA_195USDT",
+      "listedDays": 163
     }
   ]
 }
