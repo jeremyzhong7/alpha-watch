@@ -1,25 +1,14 @@
 {
-  "updatedAt": "2025-10-30T15:52:46.012Z",
+  "updatedAt": "2025-10-30T16:23:40.850Z",
   "rows": [
-    {
-      "shortSymbol": "BTG",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0,
-      "volatility5m": 0,
-      "stability": "稳定",
-      "quoteVolume24h": 1736706078.6851223,
-      "pair": "ALPHA_406USDT",
-      "listedDays": 28
-    },
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 6.874618336110304e-8,
-      "volatility5m": 8.353702889814414e-8,
+      "change5m": 0.000002500076559056172,
+      "volatility5m": 0.000002729022824909368,
       "stability": "稳定",
-      "quoteVolume24h": 372665958.04928756,
+      "quoteVolume24h": 372423611.74481684,
       "pair": "ALPHA_22USDT",
       "listedDays": 196
     },
@@ -27,32 +16,65 @@
       "shortSymbol": "P",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0000012389355314549087,
-      "volatility5m": 0.0000014159263216802974,
+      "change5m": 0.000006194544446939332,
+      "volatility5m": 0.000006283037939115659,
       "stability": "稳定",
-      "quoteVolume24h": 642437816.8118714,
+      "quoteVolume24h": 732551637.2427269,
       "pair": "ALPHA_408USDT",
       "listedDays": 27
+    },
+    {
+      "shortSymbol": "BTG",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.0028768798221525584,
+      "volatility5m": 0.0029218569373610846,
+      "stability": "稳定",
+      "quoteVolume24h": 1748331861.6500778,
+      "pair": "ALPHA_406USDT",
+      "listedDays": 28
+    },
+    {
+      "shortSymbol": "DOOD",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.0036397131726911883,
+      "volatility5m": 0.004279381568594726,
+      "stability": "稳定",
+      "quoteVolume24h": 658223732.199663,
+      "pair": "ALPHA_177USDT",
+      "listedDays": 174
     },
     {
       "shortSymbol": "MERL",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0033211447221299347,
-      "volatility5m": 0.003345229820797318,
+      "change5m": -0.003908630344859599,
+      "volatility5m": 0.005903614777429886,
       "stability": "稳定",
-      "quoteVolume24h": 1883830788.814125,
+      "quoteVolume24h": 1873149414.9346926,
       "pair": "ALPHA_195USDT",
       "listedDays": 163
+    },
+    {
+      "shortSymbol": "CDL",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.005032062054966946,
+      "volatility5m": 0.00690146862225298,
+      "stability": "稳定",
+      "quoteVolume24h": 1382051966.003801,
+      "pair": "ALPHA_423USDT",
+      "listedDays": 19
     },
     {
       "shortSymbol": "ANOME",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.00015667916677615206,
-      "volatility5m": 0.0035161392903108875,
+      "change5m": 0.0014694197242675813,
+      "volatility5m": 0.007555706924021654,
       "stability": "稳定",
-      "quoteVolume24h": 287539850.8946633,
+      "quoteVolume24h": 287299787.66274005,
       "pair": "ALPHA_433USDT",
       "listedDays": 13
     },
@@ -60,34 +82,12 @@
       "shortSymbol": "AIO",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0023145328298208763,
-      "volatility5m": 0.0036484346449020357,
+      "change5m": -0.0008335621904381082,
+      "volatility5m": 0.00996728618009199,
       "stability": "稳定",
-      "quoteVolume24h": 571809239.4234812,
+      "quoteVolume24h": 572261274.0745493,
       "pair": "ALPHA_361USDT",
       "listedDays": 52
-    },
-    {
-      "shortSymbol": "DOOD",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0005957452260308814,
-      "volatility5m": 0.004326519630766163,
-      "stability": "稳定",
-      "quoteVolume24h": 648901038.6851232,
-      "pair": "ALPHA_177USDT",
-      "listedDays": 174
-    },
-    {
-      "shortSymbol": "CDL",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.010270969498910666,
-      "volatility5m": 0.012118736383442292,
-      "stability": "稳定",
-      "quoteVolume24h": 1507491032.9896889,
-      "pair": "ALPHA_423USDT",
-      "listedDays": 19
     }
   ]
 }
