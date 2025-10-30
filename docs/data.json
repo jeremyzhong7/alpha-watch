@@ -1,14 +1,25 @@
 {
-  "updatedAt": "2025-10-30T20:12:05.791Z",
+  "updatedAt": "2025-10-30T20:35:26.515Z",
   "rows": [
+    {
+      "shortSymbol": "BTG",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0,
+      "volatility5m": 6.566854180237493e-10,
+      "stability": "稳定",
+      "quoteVolume24h": 1691155665.819772,
+      "pair": "ALPHA_406USDT",
+      "listedDays": 28
+    },
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.000006249687515683664,
-      "volatility5m": 0.000011457760445395382,
+      "change5m": 0.000006477984059331002,
+      "volatility5m": 0.000014582547084818947,
       "stability": "稳定",
-      "quoteVolume24h": 374077859.18331265,
+      "quoteVolume24h": 374138239.74009675,
       "pair": "ALPHA_22USDT",
       "listedDays": 196
     },
@@ -16,43 +27,43 @@
       "shortSymbol": "P",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.000892902599208145,
-      "volatility5m": 0.0014142964814011522,
+      "change5m": 0.000051921296175256026,
+      "volatility5m": 0.000051921296175256026,
       "stability": "稳定",
-      "quoteVolume24h": 766322460.1669525,
+      "quoteVolume24h": 773879234.2815844,
       "pair": "ALPHA_408USDT",
       "listedDays": 27
-    },
-    {
-      "shortSymbol": "DOOD",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0005811534661189274,
-      "volatility5m": 0.0028199594362680793,
-      "stability": "稳定",
-      "quoteVolume24h": 695152354.9170437,
-      "pair": "ALPHA_177USDT",
-      "listedDays": 174
     },
     {
       "shortSymbol": "AIO",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0008922887106724333,
-      "volatility5m": 0.003237507711289278,
+      "change5m": 0.00007343391059305113,
+      "volatility5m": 0.00012362611210955008,
       "stability": "稳定",
-      "quoteVolume24h": 591411746.7143534,
+      "quoteVolume24h": 591839628.73646,
       "pair": "ALPHA_361USDT",
       "listedDays": 52
+    },
+    {
+      "shortSymbol": "ANOME",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.00003580868785323417,
+      "volatility5m": 0.0003978743094800896,
+      "stability": "稳定",
+      "quoteVolume24h": 298382812.5857368,
+      "pair": "ALPHA_433USDT",
+      "listedDays": 13
     },
     {
       "shortSymbol": "CDL",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0007996185805749726,
-      "volatility5m": 0.0039351586977251765,
+      "change5m": -0.0006068624976982893,
+      "volatility5m": 0.0007277166610969296,
       "stability": "稳定",
-      "quoteVolume24h": 1380120036.5329428,
+      "quoteVolume24h": 1379345100.9290855,
       "pair": "ALPHA_423USDT",
       "listedDays": 19
     },
@@ -60,34 +71,23 @@
       "shortSymbol": "MERL",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0009431115246080669,
-      "volatility5m": 0.00428245326366634,
+      "change5m": -0.002011687786244006,
+      "volatility5m": 0.004874031617526302,
       "stability": "稳定",
-      "quoteVolume24h": 1860605836.6545956,
+      "quoteVolume24h": 1859572807.3986297,
       "pair": "ALPHA_195USDT",
       "listedDays": 163
     },
     {
-      "shortSymbol": "BTG",
+      "shortSymbol": "DOOD",
       "chainId": "56",
-      "fourX": true,
-      "change5m": -0.003623842401909829,
-      "volatility5m": 0.0046882878542534355,
+      "fourX": false,
+      "change5m": -0.008178631701934272,
+      "volatility5m": 0.012410749058808193,
       "stability": "稳定",
-      "quoteVolume24h": 1693492249.851782,
-      "pair": "ALPHA_406USDT",
-      "listedDays": 28
-    },
-    {
-      "shortSymbol": "ANOME",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.006998567335243593,
-      "volatility5m": 0.006998567335243593,
-      "stability": "稳定",
-      "quoteVolume24h": 298458839.9510108,
-      "pair": "ALPHA_433USDT",
-      "listedDays": 13
+      "quoteVolume24h": 696360523.1403733,
+      "pair": "ALPHA_177USDT",
+      "listedDays": 174
     }
   ]
 }
