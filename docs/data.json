@@ -1,25 +1,36 @@
 {
-  "updatedAt": "2025-10-31T03:53:09.908Z",
+  "updatedAt": "2025-10-31T04:23:26.349Z",
   "rows": [
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0000035414807390158336,
-      "volatility5m": 0.000006247588668296684,
+      "change5m": 0,
+      "volatility5m": 0.000004166427965054791,
       "stability": "稳定",
-      "quoteVolume24h": 370365308.2225266,
+      "quoteVolume24h": 371110711.344639,
       "pair": "ALPHA_22USDT",
       "listedDays": 197
+    },
+    {
+      "shortSymbol": "MERL",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.0005192594675580859,
+      "volatility5m": 0.0008926799293568242,
+      "stability": "稳定",
+      "quoteVolume24h": 1623055670.2835295,
+      "pair": "ALPHA_195USDT",
+      "listedDays": 164
     },
     {
       "shortSymbol": "BTG",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.00005722133211263993,
-      "volatility5m": 0.000683307236937947,
+      "change5m": 0.0008612788997533883,
+      "volatility5m": 0.0009253252251011514,
       "stability": "稳定",
-      "quoteVolume24h": 1753163028.8576415,
+      "quoteVolume24h": 1757362394.6633115,
       "pair": "ALPHA_406USDT",
       "listedDays": 29
     },
@@ -27,54 +38,21 @@
       "shortSymbol": "CDL",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.00026627158335996157,
-      "volatility5m": 0.000908054374022778,
+      "change5m": -0.00013787398317932062,
+      "volatility5m": 0.0011184337515511371,
       "stability": "稳定",
-      "quoteVolume24h": 1336580016.4764974,
+      "quoteVolume24h": 1329219698.141798,
       "pair": "ALPHA_423USDT",
       "listedDays": 20
-    },
-    {
-      "shortSymbol": "ANOME",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.00032018582002542784,
-      "volatility5m": 0.001368900470395308,
-      "stability": "稳定",
-      "quoteVolume24h": 254402615.81844723,
-      "pair": "ALPHA_433USDT",
-      "listedDays": 14
-    },
-    {
-      "shortSymbol": "MERL",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0008937146261543401,
-      "volatility5m": 0.002383109919571098,
-      "stability": "稳定",
-      "quoteVolume24h": 1611765032.7490427,
-      "pair": "ALPHA_195USDT",
-      "listedDays": 164
-    },
-    {
-      "shortSymbol": "DOOD",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.0002600780234069438,
-      "volatility5m": 0.0025721716514954,
-      "stability": "稳定",
-      "quoteVolume24h": 754823317.5474921,
-      "pair": "ALPHA_177USDT",
-      "listedDays": 175
     },
     {
       "shortSymbol": "AIO",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.004320490965884352,
-      "volatility5m": 0.004333838286556781,
+      "change5m": 0.0026126255391652684,
+      "volatility5m": 0.0028554505810518163,
       "stability": "稳定",
-      "quoteVolume24h": 852071039.0969313,
+      "quoteVolume24h": 855206546.4322294,
       "pair": "ALPHA_361USDT",
       "listedDays": 53
     },
@@ -82,12 +60,34 @@
       "shortSymbol": "P",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.002355257144865929,
-      "volatility5m": 0.009667100221464511,
+      "change5m": 0.0001656121124180442,
+      "volatility5m": 0.0033914905792767997,
       "stability": "稳定",
-      "quoteVolume24h": 857514344.8129818,
+      "quoteVolume24h": 856351108.6580904,
       "pair": "ALPHA_408USDT",
       "listedDays": 28
+    },
+    {
+      "shortSymbol": "ANOME",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.003488140221541821,
+      "volatility5m": 0.0034886826478566684,
+      "stability": "稳定",
+      "quoteVolume24h": 263914409.44218516,
+      "pair": "ALPHA_433USDT",
+      "listedDays": 14
+    },
+    {
+      "shortSymbol": "DOOD",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.004304739522130855,
+      "volatility5m": 0.004304739522130855,
+      "stability": "稳定",
+      "quoteVolume24h": 790549660.5509051,
+      "pair": "ALPHA_177USDT",
+      "listedDays": 175
     }
   ]
 }
