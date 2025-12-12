@@ -1,25 +1,36 @@
 {
-  "updatedAt": "2025-12-12T19:26:38.956Z",
+  "updatedAt": "2025-12-12T19:42:25.800Z",
   "rows": [
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.000009600639789418804,
-      "volatility5m": 0.000021899649738684864,
+      "change5m": -0.00007186730548901185,
+      "volatility5m": 0.00007288803249670239,
       "stability": "稳定",
-      "quoteVolume24h": 54182100.84999188,
+      "quoteVolume24h": 54279185.63003692,
       "pair": "ALPHA_22USDT",
       "listedDays": 239
+    },
+    {
+      "shortSymbol": "ARTX",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.00002757347714745338,
+      "volatility5m": 0.0011264140929007937,
+      "stability": "稳定",
+      "quoteVolume24h": 2984510139.8042345,
+      "pair": "ALPHA_474USDT",
+      "listedDays": 21
     },
     {
       "shortSymbol": "LAB",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.002926807805212833,
-      "volatility5m": 0.0030728400106243762,
+      "change5m": 0.0004960419278399069,
+      "volatility5m": 0.001418884232951763,
       "stability": "稳定",
-      "quoteVolume24h": 980982108.9631494,
+      "quoteVolume24h": 979044868.16122,
       "pair": "ALPHA_428USDT",
       "listedDays": 59
     },
@@ -27,23 +38,12 @@
       "shortSymbol": "BOB",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.00468499252765029,
-      "volatility5m": 0.005249030170432532,
+      "change5m": 0.0018575443816194388,
+      "volatility5m": 0.0023262090165283287,
       "stability": "稳定",
-      "quoteVolume24h": 108042130.02238603,
+      "quoteVolume24h": 108088885.92356259,
       "pair": "ALPHA_473USDT",
       "listedDays": 22
-    },
-    {
-      "shortSymbol": "ARTX",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.009749063829787233,
-      "volatility5m": 0.009749063829787233,
-      "stability": "稳定",
-      "quoteVolume24h": 2990510996.3462353,
-      "pair": "ALPHA_474USDT",
-      "listedDays": 21
     }
   ]
 }
