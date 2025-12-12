@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2025-12-12T16:57:53.161Z",
+  "updatedAt": "2025-12-12T17:28:42.582Z",
   "rows": [
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.000007260141193308189,
-      "volatility5m": 0.000008326111825003382,
+      "change5m": 0.0000016661666908736487,
+      "volatility5m": 0.0000024992500364584955,
       "stability": "稳定",
-      "quoteVolume24h": 52772297.40820491,
+      "quoteVolume24h": 53072297.07070947,
       "pair": "ALPHA_22USDT",
       "listedDays": 239
     },
@@ -16,34 +16,34 @@
       "shortSymbol": "ARTX",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0004517268284669992,
-      "volatility5m": 0.0006048006242043541,
+      "change5m": -0.0005381286924779986,
+      "volatility5m": 0.00130164454211156,
       "stability": "稳定",
-      "quoteVolume24h": 3023512156.322646,
+      "quoteVolume24h": 3013187098.0251946,
       "pair": "ALPHA_474USDT",
       "listedDays": 21
-    },
-    {
-      "shortSymbol": "BOB",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.0010402241473704227,
-      "volatility5m": 0.003577340504331568,
-      "stability": "稳定",
-      "quoteVolume24h": 107092171.32415059,
-      "pair": "ALPHA_473USDT",
-      "listedDays": 22
     },
     {
       "shortSymbol": "LAB",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0002256035058352362,
-      "volatility5m": 0.007254013184498409,
+      "change5m": -0.004697063949141588,
+      "volatility5m": 0.004919885897738068,
       "stability": "稳定",
-      "quoteVolume24h": 1012407630.5336092,
+      "quoteVolume24h": 1006208003.7674814,
       "pair": "ALPHA_428USDT",
       "listedDays": 59
+    },
+    {
+      "shortSymbol": "BOB",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.004860166773572759,
+      "volatility5m": 0.007645926876202685,
+      "stability": "稳定",
+      "quoteVolume24h": 107543052.35240757,
+      "pair": "ALPHA_473USDT",
+      "listedDays": 22
     }
   ]
 }
