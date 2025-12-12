@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2025-12-12T14:45:33.663Z",
+  "updatedAt": "2025-12-12T14:59:02.763Z",
   "rows": [
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.00003507105755111311,
-      "volatility5m": 0.00003510188851740125,
+      "change5m": -0.000011118288877978812,
+      "volatility5m": 0.000012295093020269267,
       "stability": "稳定",
-      "quoteVolume24h": 54367843.28908063,
+      "quoteVolume24h": 54361681.26023772,
       "pair": "ALPHA_22USDT",
       "listedDays": 239
     },
@@ -16,34 +16,34 @@
       "shortSymbol": "ARTX",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.00013626333591679882,
-      "volatility5m": 0.0001825839428104326,
+      "change5m": -0.001793715605914017,
+      "volatility5m": 0.002559153264002559,
       "stability": "稳定",
-      "quoteVolume24h": 3031565412.338409,
+      "quoteVolume24h": 3043019368.90717,
       "pair": "ALPHA_474USDT",
       "listedDays": 21
-    },
-    {
-      "shortSymbol": "BOB",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.000521636451608218,
-      "volatility5m": 0.0006975803378991506,
-      "stability": "稳定",
-      "quoteVolume24h": 101390039.0256835,
-      "pair": "ALPHA_473USDT",
-      "listedDays": 22
     },
     {
       "shortSymbol": "LAB",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.003975541880084923,
-      "volatility5m": 0.005069680792296117,
+      "change5m": -0.0016894995481300315,
+      "volatility5m": 0.003551539762229641,
       "stability": "稳定",
-      "quoteVolume24h": 1022161172.4235423,
+      "quoteVolume24h": 1026064375.0924015,
       "pair": "ALPHA_428USDT",
       "listedDays": 59
+    },
+    {
+      "shortSymbol": "BOB",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.0011306887779140467,
+      "volatility5m": 0.0035953919473140253,
+      "stability": "稳定",
+      "quoteVolume24h": 103265806.59124073,
+      "pair": "ALPHA_473USDT",
+      "listedDays": 22
     }
   ]
 }
