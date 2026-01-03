@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-01-03T18:49:44.240Z",
+  "updatedAt": "2026-01-03T19:08:31.445Z",
   "rows": [
     {
       "shortSymbol": "LISA",
       "chainId": "56",
       "fourX": true,
-      "change5m": -6.060603122306096e-7,
-      "volatility5m": 0.00011024237079158544,
+      "change5m": -9.696960293799096e-7,
+      "volatility5m": 0.0001525453066226786,
       "stability": "稳定",
-      "quoteVolume24h": 3192459972.670311,
+      "quoteVolume24h": 3192875802.9826965,
       "pair": "ALPHA_501USDT",
       "listedDays": 16
     },
@@ -16,21 +16,32 @@
       "shortSymbol": "KGEN",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0003582045593629223,
-      "volatility5m": 0.0012135122661150555,
+      "change5m": 0.000048032629558563996,
+      "volatility5m": 0.0008925143953935676,
       "stability": "稳定",
-      "quoteVolume24h": 310607747.7947255,
+      "quoteVolume24h": 310213233.94980633,
       "pair": "ALPHA_414USDT",
       "listedDays": 88
+    },
+    {
+      "shortSymbol": "TIMI",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.0002478944012814105,
+      "volatility5m": 0.0036110094328761326,
+      "stability": "稳定",
+      "quoteVolume24h": 197338763.03697425,
+      "pair": "ALPHA_465USDT",
+      "listedDays": 55
     },
     {
       "shortSymbol": "ZKP",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0011797631271673638,
-      "volatility5m": 0.0023134361504139945,
+      "change5m": -0.0025513696736647897,
+      "volatility5m": 0.003625823192810264,
       "stability": "稳定",
-      "quoteVolume24h": 51420439.33577008,
+      "quoteVolume24h": 51362179.73656478,
       "pair": "ALPHA_504USDT",
       "listedDays": 15
     },
@@ -38,23 +49,12 @@
       "shortSymbol": "STABLE",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.005611526636447271,
-      "volatility5m": 0.00661037480616818,
+      "change5m": -0.0029030139033694824,
+      "volatility5m": 0.004965919568977456,
       "stability": "稳定",
-      "quoteVolume24h": 260885207.58608994,
+      "quoteVolume24h": 261195215.90288958,
       "pair": "ALPHA_488USDT",
       "listedDays": 26
-    },
-    {
-      "shortSymbol": "TIMI",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0037323402050503463,
-      "volatility5m": 0.0068287528051236305,
-      "stability": "稳定",
-      "quoteVolume24h": 197135218.23990142,
-      "pair": "ALPHA_465USDT",
-      "listedDays": 55
     }
   ]
 }
