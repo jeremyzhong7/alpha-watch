@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-01-09T13:57:28.957Z",
+  "updatedAt": "2026-01-09T14:34:43.897Z",
   "rows": [
     {
       "shortSymbol": "LISA",
       "chainId": "56",
       "fourX": true,
-      "change5m": 3.0303030303901685e-7,
-      "volatility5m": 3.636363636131771e-7,
+      "change5m": 6.060606057416025e-8,
+      "volatility5m": 0.000012969696969598918,
       "stability": "稳定",
-      "quoteVolume24h": 3061746732.1485,
+      "quoteVolume24h": 3061783597.0049276,
       "pair": "ALPHA_501USDT",
       "listedDays": 22
     },
@@ -16,34 +16,34 @@
       "shortSymbol": "STAR",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.00005962410031825052,
-      "volatility5m": 0.00005962410031825052,
+      "change5m": -0.00031786342768680247,
+      "volatility5m": 0.0003344284007567231,
       "stability": "稳定",
-      "quoteVolume24h": 88991188.3570664,
+      "quoteVolume24h": 64894342.77036222,
       "pair": "ALPHA_359USDT",
       "listedDays": 125
-    },
-    {
-      "shortSymbol": "STABLE",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.0011819648106499085,
-      "volatility5m": 0.0016261976524054162,
-      "stability": "稳定",
-      "quoteVolume24h": 261112480.01134744,
-      "pair": "ALPHA_488USDT",
-      "listedDays": 32
     },
     {
       "shortSymbol": "TIMI",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0007975497331392507,
-      "volatility5m": 0.003032508491023827,
+      "change5m": -0.0006729245596595107,
+      "volatility5m": 0.001625810169101622,
       "stability": "稳定",
-      "quoteVolume24h": 296614163.800778,
+      "quoteVolume24h": 300808994.7444351,
       "pair": "ALPHA_465USDT",
       "listedDays": 61
+    },
+    {
+      "shortSymbol": "STABLE",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.00007643073727988605,
+      "volatility5m": 0.003167922283117831,
+      "stability": "稳定",
+      "quoteVolume24h": 260833388.24246454,
+      "pair": "ALPHA_488USDT",
+      "listedDays": 32
     }
   ]
 }
