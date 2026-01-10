@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-01-10T05:22:11.067Z",
+  "updatedAt": "2026-01-10T05:43:13.793Z",
   "rows": [
     {
       "shortSymbol": "LISA",
       "chainId": "56",
       "fourX": true,
-      "change5m": -6.060605322797198e-8,
-      "volatility5m": 3.030302663080755e-7,
+      "change5m": 0,
+      "volatility5m": 0.000006181818181928658,
       "stability": "稳定",
-      "quoteVolume24h": 3041424419.450871,
+      "quoteVolume24h": 3045985766.613826,
       "pair": "ALPHA_501USDT",
       "listedDays": 23
     },
@@ -16,34 +16,34 @@
       "shortSymbol": "STAR",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.00018060632919479427,
-      "volatility5m": 0.00018060632919479427,
+      "change5m": -0.00011063093631117131,
+      "volatility5m": 0.00018066932924030624,
       "stability": "稳定",
-      "quoteVolume24h": 132884872.1018705,
+      "quoteVolume24h": 135951346.51302904,
       "pair": "ALPHA_359USDT",
       "listedDays": 126
-    },
-    {
-      "shortSymbol": "STABLE",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.00009039460024385355,
-      "volatility5m": 0.00044293354119458086,
-      "stability": "稳定",
-      "quoteVolume24h": 258996451.0318509,
-      "pair": "ALPHA_488USDT",
-      "listedDays": 33
     },
     {
       "shortSymbol": "TIMI",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.00035672171189049366,
-      "volatility5m": 0.0007788683665727172,
+      "change5m": -0.000779327785681618,
+      "volatility5m": 0.0015519103907948822,
       "stability": "稳定",
-      "quoteVolume24h": 351004071.6984797,
+      "quoteVolume24h": 353330142.6703445,
       "pair": "ALPHA_465USDT",
       "listedDays": 62
+    },
+    {
+      "shortSymbol": "STABLE",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.0002913303277639891,
+      "volatility5m": 0.002031700338040118,
+      "stability": "稳定",
+      "quoteVolume24h": 259046883.23322105,
+      "pair": "ALPHA_488USDT",
+      "listedDays": 33
     }
   ]
 }
