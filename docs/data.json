@@ -1,36 +1,14 @@
 {
-  "updatedAt": "2026-01-10T16:55:14.738Z",
+  "updatedAt": "2026-01-10T17:20:48.930Z",
   "rows": [
-    {
-      "shortSymbol": "TIMI",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0,
-      "volatility5m": 0,
-      "stability": "稳定",
-      "quoteVolume24h": 352901986.69151646,
-      "pair": "ALPHA_465USDT",
-      "listedDays": 62
-    },
-    {
-      "shortSymbol": "STABLE",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0,
-      "volatility5m": 0,
-      "stability": "稳定",
-      "quoteVolume24h": 263560625.9115862,
-      "pair": "ALPHA_488USDT",
-      "listedDays": 33
-    },
     {
       "shortSymbol": "LISA",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0,
-      "volatility5m": 0,
+      "change5m": 7.272725510860727e-7,
+      "volatility5m": 8.484846428496437e-7,
       "stability": "稳定",
-      "quoteVolume24h": 3072773338.809057,
+      "quoteVolume24h": 3074048689.3427114,
       "pair": "ALPHA_501USDT",
       "listedDays": 23
     },
@@ -38,12 +16,34 @@
       "shortSymbol": "STAR",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.00015592425157571669,
-      "volatility5m": 0.00018005309691815488,
+      "change5m": 0.00008136378005737011,
+      "volatility5m": 0.00008136378005737011,
       "stability": "稳定",
-      "quoteVolume24h": 190381994.4216495,
+      "quoteVolume24h": 191007716.9226973,
       "pair": "ALPHA_359USDT",
       "listedDays": 126
+    },
+    {
+      "shortSymbol": "TIMI",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.00014731678838496127,
+      "volatility5m": 0.0005881759180701446,
+      "stability": "稳定",
+      "quoteVolume24h": 352704214.3311676,
+      "pair": "ALPHA_465USDT",
+      "listedDays": 62
+    },
+    {
+      "shortSymbol": "STABLE",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.0015864709687102216,
+      "volatility5m": 0.0015864709687102216,
+      "stability": "稳定",
+      "quoteVolume24h": 264360988.65066838,
+      "pair": "ALPHA_488USDT",
+      "listedDays": 33
     }
   ]
 }
