@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-01-10T11:25:27.659Z",
+  "updatedAt": "2026-01-10T11:41:03.649Z",
   "rows": [
     {
       "shortSymbol": "LISA",
       "chainId": "56",
       "fourX": true,
-      "change5m": 1.8181822596784204e-7,
-      "volatility5m": 0.00003024243157398501,
+      "change5m": -6.060605322797198e-8,
+      "volatility5m": 3.030302663080755e-7,
       "stability": "稳定",
-      "quoteVolume24h": 3029874381.3689704,
+      "quoteVolume24h": 3034042324.386519,
       "pair": "ALPHA_501USDT",
       "listedDays": 23
     },
@@ -16,34 +16,34 @@
       "shortSymbol": "STAR",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.00005781707620265258,
-      "volatility5m": 0.0001389307557041258,
+      "change5m": -0.0000018867230355852317,
+      "volatility5m": 0.0000018867230355852317,
       "stability": "稳定",
-      "quoteVolume24h": 180759285.12032774,
+      "quoteVolume24h": 182826635.60220572,
       "pair": "ALPHA_359USDT",
       "listedDays": 126
-    },
-    {
-      "shortSymbol": "TIMI",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.00004028526321514915,
-      "volatility5m": 0.0002721977244271071,
-      "stability": "稳定",
-      "quoteVolume24h": 347408480.04730356,
-      "pair": "ALPHA_465USDT",
-      "listedDays": 62
     },
     {
       "shortSymbol": "STABLE",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0005724364238662688,
-      "volatility5m": 0.0005724364238662688,
+      "change5m": 0.0007879548932206863,
+      "volatility5m": 0.0009778402412790976,
       "stability": "稳定",
-      "quoteVolume24h": 261057315.19052476,
+      "quoteVolume24h": 261005987.8219879,
       "pair": "ALPHA_488USDT",
       "listedDays": 33
+    },
+    {
+      "shortSymbol": "TIMI",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.0008714867171714727,
+      "volatility5m": 0.0015688936905884183,
+      "stability": "稳定",
+      "quoteVolume24h": 347897609.0203685,
+      "pair": "ALPHA_465USDT",
+      "listedDays": 62
     }
   ]
 }
