@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-01-16T09:19:45.639Z",
+  "updatedAt": "2026-01-16T09:46:09.663Z",
   "rows": [
-    {
-      "shortSymbol": "TIMI",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.00006865893155613454,
-      "volatility5m": 0.0003467622805861528,
-      "stability": "稳定",
-      "quoteVolume24h": 2557494977.660575,
-      "pair": "ALPHA_465USDT",
-      "listedDays": 68
-    },
     {
       "shortSymbol": "STAR",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.000007681556664464166,
-      "volatility5m": 0.0008599246633891471,
+      "change5m": 0,
+      "volatility5m": 0,
       "stability": "稳定",
-      "quoteVolume24h": 165855886.4691351,
+      "quoteVolume24h": 165590267.1965238,
       "pair": "ALPHA_359USDT",
       "listedDays": 132
     },
     {
-      "shortSymbol": "IR",
+      "shortSymbol": "TIMI",
       "chainId": "56",
-      "fourX": true,
-      "change5m": 0.0032599737532807162,
-      "volatility5m": 0.0063223097112860595,
+      "fourX": false,
+      "change5m": -0.0002080732417810744,
+      "volatility5m": 0.0006380912747954553,
       "stability": "稳定",
-      "quoteVolume24h": 303213473.95852107,
-      "pair": "ALPHA_500USDT",
-      "listedDays": 30
+      "quoteVolume24h": 2571588807.2166505,
+      "pair": "ALPHA_465USDT",
+      "listedDays": 68
     },
     {
       "shortSymbol": "H",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.005729777992277964,
-      "volatility5m": 0.007823600386100313,
+      "change5m": 0.0011677074552778229,
+      "volatility5m": 0.0011677074552778229,
       "stability": "稳定",
-      "quoteVolume24h": 342897781.2228678,
+      "quoteVolume24h": 357268644.37998396,
       "pair": "ALPHA_245USDT",
       "listedDays": 205
+    },
+    {
+      "shortSymbol": "IR",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.0019552711460894697,
+      "volatility5m": 0.005440622692242908,
+      "stability": "稳定",
+      "quoteVolume24h": 289893115.2600488,
+      "pair": "ALPHA_500USDT",
+      "listedDays": 30
     }
   ]
 }
