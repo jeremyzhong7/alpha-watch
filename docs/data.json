@@ -1,25 +1,36 @@
 {
-  "updatedAt": "2026-01-16T13:48:08.614Z",
+  "updatedAt": "2026-01-16T14:13:08.211Z",
   "rows": [
     {
       "shortSymbol": "STAR",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.00008527925800414346,
-      "volatility5m": 0.0004241194166277375,
+      "change5m": -0.000008270618781802458,
+      "volatility5m": 0.000009304446129563633,
       "stability": "稳定",
-      "quoteVolume24h": 158037099.25813085,
+      "quoteVolume24h": 157376208.0516131,
       "pair": "ALPHA_359USDT",
       "listedDays": 132
+    },
+    {
+      "shortSymbol": "TIMI",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.0009672516236008282,
+      "volatility5m": 0.0010280502970844343,
+      "stability": "稳定",
+      "quoteVolume24h": 2539631577.4628525,
+      "pair": "ALPHA_465USDT",
+      "listedDays": 68
     },
     {
       "shortSymbol": "IR",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.00010629239147247636,
-      "volatility5m": 0.002963458119288622,
+      "change5m": 0.0025067690586635964,
+      "volatility5m": 0.0032033294899212576,
       "stability": "稳定",
-      "quoteVolume24h": 175521201.6829225,
+      "quoteVolume24h": 166721304.22584665,
       "pair": "ALPHA_500USDT",
       "listedDays": 30
     },
@@ -27,23 +38,12 @@
       "shortSymbol": "H",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0036929768618066973,
-      "volatility5m": 0.0052004910821301705,
+      "change5m": 0.008123840384993385,
+      "volatility5m": 0.008728704202576678,
       "stability": "稳定",
-      "quoteVolume24h": 452431603.96751356,
+      "quoteVolume24h": 450208069.1753595,
       "pair": "ALPHA_245USDT",
       "listedDays": 205
-    },
-    {
-      "shortSymbol": "TIMI",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.0009996926152899832,
-      "volatility5m": 0.005442924751669136,
-      "stability": "稳定",
-      "quoteVolume24h": 2541661241.370443,
-      "pair": "ALPHA_465USDT",
-      "listedDays": 68
     }
   ]
 }
