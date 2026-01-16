@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-01-16T05:28:54.014Z",
+  "updatedAt": "2026-01-16T05:52:24.472Z",
   "rows": [
     {
       "shortSymbol": "STAR",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.00001217864859618619,
-      "volatility5m": 0.001230347974437016,
+      "change5m": 0.00006743877471971648,
+      "volatility5m": 0.00031214518584511865,
       "stability": "稳定",
-      "quoteVolume24h": 170282788.40954328,
+      "quoteVolume24h": 170324011.41870007,
       "pair": "ALPHA_359USDT",
       "listedDays": 132
     },
@@ -16,34 +16,34 @@
       "shortSymbol": "TIMI",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0007553440069233677,
-      "volatility5m": 0.003254002596278679,
+      "change5m": -0.000046958083005397816,
+      "volatility5m": 0.001360403287065877,
       "stability": "稳定",
-      "quoteVolume24h": 2556907028.7982383,
+      "quoteVolume24h": 2557464916.6307197,
       "pair": "ALPHA_465USDT",
       "listedDays": 68
-    },
-    {
-      "shortSymbol": "H",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.0033238878702604407,
-      "volatility5m": 0.005825775328711859,
-      "stability": "稳定",
-      "quoteVolume24h": 214386066.6248007,
-      "pair": "ALPHA_245USDT",
-      "listedDays": 205
     },
     {
       "shortSymbol": "IR",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.005921895006402048,
-      "volatility5m": 0.007861715749039648,
+      "change5m": 0.0014556494192186414,
+      "volatility5m": 0.002007787750792118,
       "stability": "稳定",
-      "quoteVolume24h": 505892531.78679186,
+      "quoteVolume24h": 470180699.07114136,
       "pair": "ALPHA_500USDT",
       "listedDays": 30
+    },
+    {
+      "shortSymbol": "H",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.00004777830864778903,
+      "volatility5m": 0.002388915432393695,
+      "stability": "稳定",
+      "quoteVolume24h": 229781027.42907014,
+      "pair": "ALPHA_245USDT",
+      "listedDays": 205
     }
   ]
 }
