@@ -1,36 +1,25 @@
 {
-  "updatedAt": "2026-01-17T17:14:42.233Z",
+  "updatedAt": "2026-01-17T17:35:02.805Z",
   "rows": [
     {
       "shortSymbol": "STAR",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0007970080966626714,
-      "volatility5m": 0.0007970080966626714,
+      "change5m": -0.0004851582792540743,
+      "volatility5m": 0.0012741635459006084,
       "stability": "稳定",
-      "quoteVolume24h": 144663270.98710278,
+      "quoteVolume24h": 145103952.6679177,
       "pair": "ALPHA_359USDT",
       "listedDays": 133
-    },
-    {
-      "shortSymbol": "TIMI",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.00041723548814040013,
-      "volatility5m": 0.0009780976503394722,
-      "stability": "稳定",
-      "quoteVolume24h": 2591191726.9037576,
-      "pair": "ALPHA_465USDT",
-      "listedDays": 69
     },
     {
       "shortSymbol": "IR",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0010015929554849686,
-      "volatility5m": 0.0018148986256485728,
+      "change5m": -0.0027855536446619727,
+      "volatility5m": 0.0037606826299775515,
       "stability": "稳定",
-      "quoteVolume24h": 198997034.91333535,
+      "quoteVolume24h": 198486625.32098186,
       "pair": "ALPHA_500USDT",
       "listedDays": 31
     },
@@ -38,12 +27,23 @@
       "shortSymbol": "STABLE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.00008653660059664352,
-      "volatility5m": 0.005464669386332717,
+      "change5m": -0.0007384041402448738,
+      "volatility5m": 0.00491327284386289,
       "stability": "稳定",
-      "quoteVolume24h": 94731084.69696485,
+      "quoteVolume24h": 94834834.24967095,
       "pair": "ALPHA_488USDT",
       "listedDays": 40
+    },
+    {
+      "shortSymbol": "TIMI",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.00023156138534115455,
+      "volatility5m": 0.007766655160510906,
+      "stability": "稳定",
+      "quoteVolume24h": 2592740659.9823666,
+      "pair": "ALPHA_465USDT",
+      "listedDays": 69
     }
   ]
 }
