@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-01-17T18:40:55.017Z",
+  "updatedAt": "2026-01-17T18:57:52.278Z",
   "rows": [
     {
       "shortSymbol": "STAR",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0005517341663356336,
-      "volatility5m": 0.0005517341663356336,
+      "change5m": 0.000017861157537971564,
+      "volatility5m": 0.00002097647571329468,
       "stability": "稳定",
-      "quoteVolume24h": 144977838.04051048,
+      "quoteVolume24h": 144927240.85724944,
       "pair": "ALPHA_359USDT",
       "listedDays": 133
     },
@@ -16,34 +16,34 @@
       "shortSymbol": "STABLE",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0001852302335602042,
-      "volatility5m": 0.0006623739364647878,
+      "change5m": 0.00003239352836212065,
+      "volatility5m": 0.001169111887247069,
       "stability": "稳定",
-      "quoteVolume24h": 95455965.3361465,
+      "quoteVolume24h": 95660782.81829257,
       "pair": "ALPHA_488USDT",
       "listedDays": 40
-    },
-    {
-      "shortSymbol": "IR",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0005069210527474626,
-      "volatility5m": 0.0014687507376761563,
-      "stability": "稳定",
-      "quoteVolume24h": 198960959.3194101,
-      "pair": "ALPHA_500USDT",
-      "listedDays": 31
     },
     {
       "shortSymbol": "TIMI",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.002765199117940062,
-      "volatility5m": 0.0028424473085085244,
+      "change5m": 0.000971554795762077,
+      "volatility5m": 0.0015039037730860867,
       "stability": "稳定",
-      "quoteVolume24h": 2589019632.6315837,
+      "quoteVolume24h": 2589295401.1892986,
       "pair": "ALPHA_465USDT",
       "listedDays": 69
+    },
+    {
+      "shortSymbol": "IR",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.003978414841594805,
+      "volatility5m": 0.004021840919354007,
+      "stability": "稳定",
+      "quoteVolume24h": 199131546.95301136,
+      "pair": "ALPHA_500USDT",
+      "listedDays": 31
     }
   ]
 }
