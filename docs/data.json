@@ -1,36 +1,47 @@
 {
-  "updatedAt": "2026-01-21T20:00:32.116Z",
+  "updatedAt": "2026-01-21T20:44:34.911Z",
   "rows": [
-    {
-      "shortSymbol": "STAR",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0,
-      "volatility5m": 0,
-      "stability": "稳定",
-      "quoteVolume24h": 75100384.08326516,
-      "pair": "ALPHA_359USDT",
-      "listedDays": 137
-    },
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0000763929426788657,
-      "volatility5m": 0.00008333249052506258,
+      "change5m": 0.00009291187107907503,
+      "volatility5m": 0.00009844139218567206,
       "stability": "稳定",
-      "quoteVolume24h": 51768583.42165644,
+      "quoteVolume24h": 52392827.55204083,
       "pair": "ALPHA_22USDT",
       "listedDays": 279
+    },
+    {
+      "shortSymbol": "STAR",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.0003701198506228274,
+      "volatility5m": 0.00037022915949788405,
+      "stability": "稳定",
+      "quoteVolume24h": 78440831.28929617,
+      "pair": "ALPHA_359USDT",
+      "listedDays": 137
+    },
+    {
+      "shortSymbol": "IR",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.0028109403759126314,
+      "volatility5m": 0.0029415358084102037,
+      "stability": "稳定",
+      "quoteVolume24h": 105808653.54232249,
+      "pair": "ALPHA_500USDT",
+      "listedDays": 35
     },
     {
       "shortSymbol": "SENTIS",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0006136649083144662,
-      "volatility5m": 0.0010047726701833302,
+      "change5m": 0.0004619052969303179,
+      "volatility5m": 0.003113990736926079,
       "stability": "稳定",
-      "quoteVolume24h": 57171418.96216671,
+      "quoteVolume24h": 60476483.57198582,
       "pair": "ALPHA_459USDT",
       "listedDays": 77
     },
@@ -38,10 +49,10 @@
       "shortSymbol": "OWL",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0005815116279070129,
-      "volatility5m": 0.001162790697674452,
+      "change5m": 0.004990833315629664,
+      "volatility5m": 0.006461407196579317,
       "stability": "稳定",
-      "quoteVolume24h": 381855807.4633288,
+      "quoteVolume24h": 381819062.24304634,
       "pair": "ALPHA_556USDT",
       "listedDays": 6
     },
@@ -49,45 +60,34 @@
       "shortSymbol": "STABLE",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.001004424287262327,
-      "volatility5m": 0.0018071253869416527,
+      "change5m": -0.0051600707424782595,
+      "volatility5m": 0.006718946911370743,
       "stability": "稳定",
-      "quoteVolume24h": 163740569.26499134,
+      "quoteVolume24h": 164045548.661876,
       "pair": "ALPHA_488USDT",
       "listedDays": 44
-    },
-    {
-      "shortSymbol": "IR",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.001417209250877622,
-      "volatility5m": 0.00395312436075574,
-      "stability": "稳定",
-      "quoteVolume24h": 105236855.54449552,
-      "pair": "ALPHA_500USDT",
-      "listedDays": 35
-    },
-    {
-      "shortSymbol": "TIMI",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0012021122204541423,
-      "volatility5m": 0.00492866010386242,
-      "stability": "稳定",
-      "quoteVolume24h": 2042993424.5864403,
-      "pair": "ALPHA_465USDT",
-      "listedDays": 73
     },
     {
       "shortSymbol": "KGEN",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0073326226078031,
-      "volatility5m": 0.007436571904395802,
+      "change5m": 0.011754439910200188,
+      "volatility5m": 0.011968664742614524,
       "stability": "稳定",
-      "quoteVolume24h": 54825448.25764747,
+      "quoteVolume24h": 52641192.46168281,
       "pair": "ALPHA_414USDT",
       "listedDays": 106
+    },
+    {
+      "shortSymbol": "TIMI",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.0044779116465864,
+      "volatility5m": 0.022088353413654588,
+      "stability": "稳定",
+      "quoteVolume24h": 2043906232.4909136,
+      "pair": "ALPHA_465USDT",
+      "listedDays": 73
     }
   ]
 }
