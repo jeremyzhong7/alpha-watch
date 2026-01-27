@@ -1,25 +1,36 @@
 {
-  "updatedAt": "2026-01-27T19:17:11.469Z",
+  "updatedAt": "2026-01-27T19:44:44.279Z",
   "rows": [
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": -3.554076408168876e-7,
-      "volatility5m": 0.000001701415124835868,
+      "change5m": -0.000020832899310208963,
+      "volatility5m": 0.000020833315968229644,
       "stability": "稳定",
-      "quoteVolume24h": 52575977.16656166,
+      "quoteVolume24h": 52016497.63737413,
       "pair": "ALPHA_22USDT",
       "listedDays": 285
+    },
+    {
+      "shortSymbol": "OWL",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.0014176273336832868,
+      "volatility5m": 0.00238285356539853,
+      "stability": "稳定",
+      "quoteVolume24h": 2038471660.0639079,
+      "pair": "ALPHA_556USDT",
+      "listedDays": 12
     },
     {
       "shortSymbol": "MGO",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.000036536353671940086,
-      "volatility5m": 0.0003617099013518519,
+      "change5m": 0.0018323287671233052,
+      "volatility5m": 0.0036526027397260708,
       "stability": "稳定",
-      "quoteVolume24h": 55544879.81581263,
+      "quoteVolume24h": 56076403.0593939,
       "pair": "ALPHA_242USDT",
       "listedDays": 217
     },
@@ -27,23 +38,12 @@
       "shortSymbol": "TIMI",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0031484207449106955,
-      "volatility5m": 0.0049153651728268055,
+      "change5m": 0.011388334810402929,
+      "volatility5m": 0.018726008259671505,
       "stability": "稳定",
-      "quoteVolume24h": 512646399.72422147,
+      "quoteVolume24h": 506495545.0989333,
       "pair": "ALPHA_465USDT",
       "listedDays": 79
-    },
-    {
-      "shortSymbol": "OWL",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.00045048706972649537,
-      "volatility5m": 0.005215121383827255,
-      "stability": "稳定",
-      "quoteVolume24h": 2033862151.5128932,
-      "pair": "ALPHA_556USDT",
-      "listedDays": 12
     }
   ]
 }
