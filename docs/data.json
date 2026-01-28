@@ -1,14 +1,25 @@
 {
-  "updatedAt": "2026-01-28T11:34:18.000Z",
+  "updatedAt": "2026-01-28T11:52:17.428Z",
   "rows": [
+    {
+      "shortSymbol": "KOGE",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 1.8020081749215506e-7,
+      "volatility5m": 1.9811673707330485e-7,
+      "stability": "稳定",
+      "quoteVolume24h": 50112013.35144171,
+      "pair": "ALPHA_22USDT",
+      "listedDays": 286
+    },
     {
       "shortSymbol": "MGO",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0001962373557430606,
-      "volatility5m": 0.0011698626950626177,
+      "change5m": 0.00012972363834191065,
+      "volatility5m": 0.0010780357756952083,
       "stability": "稳定",
-      "quoteVolume24h": 176473758.51028118,
+      "quoteVolume24h": 179724837.1861389,
       "pair": "ALPHA_242USDT",
       "listedDays": 218
     },
@@ -16,43 +27,43 @@
       "shortSymbol": "FIGHT",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0009250740333593473,
-      "volatility5m": 0.004364721526651113,
+      "change5m": 0.0006528281693302155,
+      "volatility5m": 0.0018991779657035208,
       "stability": "稳定",
-      "quoteVolume24h": 246382266.86601332,
+      "quoteVolume24h": 251627960.98007482,
       "pair": "ALPHA_604USDT",
       "listedDays": 6
-    },
-    {
-      "shortSymbol": "ESPORTS",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0033462161936746054,
-      "volatility5m": 0.004396460801837562,
-      "stability": "稳定",
-      "quoteVolume24h": 57995479.33232073,
-      "pair": "ALPHA_283USDT",
-      "listedDays": 193
     },
     {
       "shortSymbol": "OWL",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.00405826920056559,
-      "volatility5m": 0.006771477933092453,
+      "change5m": 0.0011667139658815726,
+      "volatility5m": 0.0020338662378202982,
       "stability": "稳定",
-      "quoteVolume24h": 2031792282.1296835,
+      "quoteVolume24h": 2027798530.5222542,
       "pair": "ALPHA_556USDT",
       "listedDays": 13
+    },
+    {
+      "shortSymbol": "ESPORTS",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.006419319984700018,
+      "volatility5m": 0.007725504159751399,
+      "stability": "稳定",
+      "quoteVolume24h": 57635930.24820224,
+      "pair": "ALPHA_283USDT",
+      "listedDays": 193
     },
     {
       "shortSymbol": "TIMI",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.00016875661757306782,
-      "volatility5m": 0.020057540562830642,
+      "change5m": 0.007566589286303709,
+      "volatility5m": 0.016502921017020056,
       "stability": "稳定",
-      "quoteVolume24h": 236828645.6943429,
+      "quoteVolume24h": 223293732.52478772,
       "pair": "ALPHA_465USDT",
       "listedDays": 80
     }
