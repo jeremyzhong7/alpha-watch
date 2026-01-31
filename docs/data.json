@@ -1,25 +1,14 @@
 {
-  "updatedAt": "2026-01-31T13:57:19.378Z",
+  "updatedAt": "2026-01-31T14:34:07.578Z",
   "rows": [
-    {
-      "shortSymbol": "STAR",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0003451897875372491,
-      "volatility5m": 0.000345430673641642,
-      "stability": "稳定",
-      "quoteVolume24h": 57425965.74491465,
-      "pair": "ALPHA_359USDT",
-      "listedDays": 147
-    },
     {
       "shortSymbol": "OWL",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.00002929898933696242,
-      "volatility5m": 0.001141519065080619,
+      "change5m": -0.00023875728458218524,
+      "volatility5m": 0.002147095132448149,
       "stability": "稳定",
-      "quoteVolume24h": 2289842876.6788425,
+      "quoteVolume24h": 2292517465.4861946,
       "pair": "ALPHA_556USDT",
       "listedDays": 16
     },
@@ -27,10 +16,10 @@
       "shortSymbol": "WMTX",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0003791369721051181,
-      "volatility5m": 0.0016697202540165942,
+      "change5m": -0.009615573347107388,
+      "volatility5m": 0.011529571280991744,
       "stability": "稳定",
-      "quoteVolume24h": 62005637.06905716,
+      "quoteVolume24h": 60135205.31534679,
       "pair": "ALPHA_611USDT",
       "listedDays": 5
     },
@@ -38,12 +27,23 @@
       "shortSymbol": "FIGHT",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0013969598440355703,
-      "volatility5m": 0.0068764906246753495,
+      "change5m": -0.007371500755363012,
+      "volatility5m": 0.02111163258777735,
       "stability": "稳定",
-      "quoteVolume24h": 137506378.35207012,
+      "quoteVolume24h": 136572840.0091182,
       "pair": "ALPHA_604USDT",
       "listedDays": 9
+    },
+    {
+      "shortSymbol": "STAR",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 6.048819294842896e-7,
+      "volatility5m": 0.10000065327248378,
+      "stability": "一般",
+      "quoteVolume24h": 57311464.46836152,
+      "pair": "ALPHA_359USDT",
+      "listedDays": 147
     }
   ]
 }
