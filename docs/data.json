@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-02T06:15:32.696Z",
+  "updatedAt": "2026-02-02T07:31:13.393Z",
   "rows": [
     {
       "shortSymbol": "STAR",
@@ -8,7 +8,7 @@
       "change5m": 0,
       "volatility5m": 0,
       "stability": "稳定",
-      "quoteVolume24h": 56556550.14753221,
+      "quoteVolume24h": 55033997.73146499,
       "pair": "ALPHA_359USDT",
       "listedDays": 149
     },
@@ -16,32 +16,21 @@
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 4.3539834369889585e-8,
-      "volatility5m": 0.000004625638666307383,
+      "change5m": 0.000047885595628751006,
+      "volatility5m": 0.00004788705391040676,
       "stability": "稳定",
-      "quoteVolume24h": 52410115.93285585,
+      "quoteVolume24h": 52080288.13905954,
       "pair": "ALPHA_22USDT",
       "listedDays": 291
-    },
-    {
-      "shortSymbol": "ZTC",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.0013654102854113537,
-      "volatility5m": 0.001905460622178699,
-      "stability": "稳定",
-      "quoteVolume24h": 97935385.97665516,
-      "pair": "ALPHA_511USDT",
-      "listedDays": 26
     },
     {
       "shortSymbol": "OWL",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0010942551604079176,
-      "volatility5m": 0.0019671723451879022,
+      "change5m": -0.00028024837757810244,
+      "volatility5m": 0.0006708072867559348,
       "stability": "稳定",
-      "quoteVolume24h": 2287191240.2721477,
+      "quoteVolume24h": 2352369688.3871727,
       "pair": "ALPHA_556USDT",
       "listedDays": 18
     },
@@ -49,12 +38,23 @@
       "shortSymbol": "WMTX",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.002807345594338332,
-      "volatility5m": 0.007674319860094466,
+      "change5m": 0,
+      "volatility5m": 0.0021596494271881256,
       "stability": "稳定",
-      "quoteVolume24h": 88885092.5290921,
+      "quoteVolume24h": 83852149.45353067,
       "pair": "ALPHA_611USDT",
       "listedDays": 7
+    },
+    {
+      "shortSymbol": "ZTC",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.002061383417315682,
+      "volatility5m": 0.0036074209803023593,
+      "stability": "稳定",
+      "quoteVolume24h": 102723048.73133948,
+      "pair": "ALPHA_511USDT",
+      "listedDays": 26
     }
   ]
 }
