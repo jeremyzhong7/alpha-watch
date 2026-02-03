@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-02-03T08:56:27.656Z",
+  "updatedAt": "2026-02-03T09:53:37.657Z",
   "rows": [
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.00001537638437734756,
-      "volatility5m": 0.00001706547426399238,
+      "change5m": -0.0002818837984760243,
+      "volatility5m": 0.0004901305706976258,
       "stability": "稳定",
-      "quoteVolume24h": 53359715.36315288,
+      "quoteVolume24h": 52284496.35108661,
       "pair": "ALPHA_22USDT",
       "listedDays": 292
     },
@@ -16,34 +16,34 @@
       "shortSymbol": "WMTX",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.00004238671143622074,
-      "volatility5m": 0.0020189267049474913,
+      "change5m": 0.0001244555071561434,
+      "volatility5m": 0.0021891723708773207,
       "stability": "稳定",
-      "quoteVolume24h": 348369283.55578756,
+      "quoteVolume24h": 371343794.11836994,
       "pair": "ALPHA_611USDT",
       "listedDays": 8
-    },
-    {
-      "shortSymbol": "ZTC",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.0009572020248503407,
-      "volatility5m": 0.004597330878969207,
-      "stability": "稳定",
-      "quoteVolume24h": 130576023.12112185,
-      "pair": "ALPHA_511USDT",
-      "listedDays": 27
     },
     {
       "shortSymbol": "OWL",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.006828655612302282,
-      "volatility5m": 0.011915956715181922,
+      "change5m": 0.001975052044167208,
+      "volatility5m": 0.004040196514520227,
       "stability": "稳定",
-      "quoteVolume24h": 1944978098.0787187,
+      "quoteVolume24h": 1962772743.3717735,
       "pair": "ALPHA_556USDT",
       "listedDays": 19
+    },
+    {
+      "shortSymbol": "ZTC",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.009718545031872493,
+      "volatility5m": 0.016152987518565413,
+      "stability": "稳定",
+      "quoteVolume24h": 124848963.06316592,
+      "pair": "ALPHA_511USDT",
+      "listedDays": 27
     }
   ]
 }
