@@ -1,25 +1,58 @@
 {
-  "updatedAt": "2026-02-04T23:39:18.858Z",
+  "updatedAt": "2026-02-05T00:00:12.409Z",
   "rows": [
     {
       "shortSymbol": "KOGE",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.000010290911515491783,
-      "volatility5m": 0.0001352790011984366,
+      "change5m": 0.000004023138502614576,
+      "volatility5m": 0.00009464844266383951,
       "stability": "稳定",
-      "quoteVolume24h": 55152183.86801236,
+      "quoteVolume24h": 55565469.62950921,
       "pair": "ALPHA_22USDT",
       "listedDays": 293
+    },
+    {
+      "shortSymbol": "FIGHT",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.0006033033148675595,
+      "volatility5m": 0.0006033033148675595,
+      "stability": "稳定",
+      "quoteVolume24h": 62614084.86435747,
+      "pair": "ALPHA_604USDT",
+      "listedDays": 14
+    },
+    {
+      "shortSymbol": "TRIA",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.0008995975430033804,
+      "volatility5m": 0.0008995975430033804,
+      "stability": "稳定",
+      "quoteVolume24h": 67830535.28675954,
+      "pair": "ALPHA_669USDT",
+      "listedDays": 2
+    },
+    {
+      "shortSymbol": "OWL",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.0019867361915291487,
+      "volatility5m": 0.0019867361915291487,
+      "stability": "稳定",
+      "quoteVolume24h": 968721983.5577781,
+      "pair": "ALPHA_556USDT",
+      "listedDays": 21
     },
     {
       "shortSymbol": "B2",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0005306079099294766,
-      "volatility5m": 0.002844467096537205,
+      "change5m": -0.0036970243202739234,
+      "volatility5m": 0.004594249507332935,
       "stability": "稳定",
-      "quoteVolume24h": 121086266.74633162,
+      "quoteVolume24h": 121556312.4365883,
       "pair": "ALPHA_162USDT",
       "listedDays": 280
     },
@@ -27,67 +60,34 @@
       "shortSymbol": "MGO",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0006339011948739723,
-      "volatility5m": 0.004366963215846326,
+      "change5m": -0.004357295846513806,
+      "volatility5m": 0.0053610623839294835,
       "stability": "稳定",
-      "quoteVolume24h": 138455435.02601108,
+      "quoteVolume24h": 138375257.95550084,
       "pair": "ALPHA_242USDT",
       "listedDays": 225
-    },
-    {
-      "shortSymbol": "FIGHT",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.0059873527680997605,
-      "volatility5m": 0.00942657786827832,
-      "stability": "稳定",
-      "quoteVolume24h": 62057697.34338529,
-      "pair": "ALPHA_604USDT",
-      "listedDays": 13
     },
     {
       "shortSymbol": "WMTX",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0035065142857142783,
-      "volatility5m": 0.010857142857142772,
+      "change5m": 0,
+      "volatility5m": 0.007701149425287242,
       "stability": "稳定",
-      "quoteVolume24h": 1409820125.6221044,
+      "quoteVolume24h": 1411580212.081929,
       "pair": "ALPHA_611USDT",
-      "listedDays": 9
-    },
-    {
-      "shortSymbol": "TRIA",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.0029588129133006976,
-      "volatility5m": 0.014532330950660526,
-      "stability": "稳定",
-      "quoteVolume24h": 67668012.79348728,
-      "pair": "ALPHA_669USDT",
-      "listedDays": 1
+      "listedDays": 10
     },
     {
       "shortSymbol": "ZTC",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.020382768852549957,
-      "volatility5m": 0.0285137102583867,
+      "change5m": 0.01764114991093977,
+      "volatility5m": 0.019225591317675334,
       "stability": "稳定",
-      "quoteVolume24h": 55553774.94085919,
+      "quoteVolume24h": 55471981.26161208,
       "pair": "ALPHA_511USDT",
-      "listedDays": 28
-    },
-    {
-      "shortSymbol": "OWL",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.01006872533119104,
-      "volatility5m": 0.031207505580738874,
-      "stability": "稳定",
-      "quoteVolume24h": 971506978.6829824,
-      "pair": "ALPHA_556USDT",
-      "listedDays": 20
+      "listedDays": 29
     }
   ]
 }
