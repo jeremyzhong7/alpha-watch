@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T22:42:41.543Z",
+  "updatedAt": "2026-02-12T23:04:34.231Z",
   "rows": [
     {
       "shortSymbol": "ARTX",
@@ -8,42 +8,42 @@
       "change5m": 3.508772051092508e-8,
       "volatility5m": 3.508772051092508e-8,
       "stability": "稳定",
-      "quoteVolume24h": 1192650557.829689,
+      "quoteVolume24h": 1196647470.504615,
       "pair": "ALPHA_474USDT",
       "listedDays": 83
-    },
-    {
-      "shortSymbol": "WMTX",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.000233563003620136,
-      "volatility5m": 0.0015631204017284223,
-      "stability": "稳定",
-      "quoteVolume24h": 1064844285.1776977,
-      "pair": "ALPHA_611USDT",
-      "listedDays": 17
-    },
-    {
-      "shortSymbol": "FIGHT",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.0009409734542323763,
-      "volatility5m": 0.0031214684187738633,
-      "stability": "稳定",
-      "quoteVolume24h": 76383613.97787587,
-      "pair": "ALPHA_604USDT",
-      "listedDays": 21
     },
     {
       "shortSymbol": "B2",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0025285931448053513,
-      "volatility5m": 0.0031299915590461175,
+      "change5m": -0.00019825534145281052,
+      "volatility5m": 0.00019825534145281052,
       "stability": "稳定",
-      "quoteVolume24h": 498047139.5891016,
+      "quoteVolume24h": 497703668.83065724,
       "pair": "ALPHA_162USDT",
       "listedDays": 288
+    },
+    {
+      "shortSymbol": "FIGHT",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.0008885507844502732,
+      "volatility5m": 0.006649501364395185,
+      "stability": "稳定",
+      "quoteVolume24h": 76393623.0600233,
+      "pair": "ALPHA_604USDT",
+      "listedDays": 21
+    },
+    {
+      "shortSymbol": "WMTX",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.003148980281521788,
+      "volatility5m": 0.007457699266717598,
+      "stability": "稳定",
+      "quoteVolume24h": 1061223625.3301474,
+      "pair": "ALPHA_611USDT",
+      "listedDays": 17
     }
   ]
 }
