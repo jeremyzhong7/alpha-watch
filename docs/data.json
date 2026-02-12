@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-02-12T18:39:28.809Z",
+  "updatedAt": "2026-02-12T19:40:40.426Z",
   "rows": [
-    {
-      "shortSymbol": "B2",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.0001999864990225303,
-      "volatility5m": 0.0006174968193807629,
-      "stability": "稳定",
-      "quoteVolume24h": 506741915.36413294,
-      "pair": "ALPHA_162USDT",
-      "listedDays": 288
-    },
     {
       "shortSymbol": "ARTX",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.00007462450887843472,
-      "volatility5m": 0.005493557529389467,
+      "change5m": 0,
+      "volatility5m": 3.816793891120779e-8,
       "stability": "稳定",
-      "quoteVolume24h": 1153909678.4185417,
+      "quoteVolume24h": 1172655050.1847684,
       "pair": "ALPHA_474USDT",
       "listedDays": 83
     },
     {
-      "shortSymbol": "FIGHT",
+      "shortSymbol": "B2",
       "chainId": "56",
-      "fourX": true,
-      "change5m": 0.00494858682031057,
-      "volatility5m": 0.007384646115960168,
+      "fourX": false,
+      "change5m": 0.0003648847346599089,
+      "volatility5m": 0.00038915663802284797,
       "stability": "稳定",
-      "quoteVolume24h": 77538875.6028648,
-      "pair": "ALPHA_604USDT",
-      "listedDays": 21
+      "quoteVolume24h": 503332965.5308095,
+      "pair": "ALPHA_162USDT",
+      "listedDays": 288
     },
     {
       "shortSymbol": "WMTX",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.003159836625548733,
-      "volatility5m": 0.007463332231751891,
+      "change5m": -0.00035113154172562185,
+      "volatility5m": 0.0006897689768977646,
       "stability": "稳定",
-      "quoteVolume24h": 1097698205.977684,
+      "quoteVolume24h": 1083952664.6575677,
       "pair": "ALPHA_611USDT",
       "listedDays": 17
+    },
+    {
+      "shortSymbol": "FIGHT",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.005088549618320715,
+      "volatility5m": 0.005119083969465705,
+      "stability": "稳定",
+      "quoteVolume24h": 77383305.69723842,
+      "pair": "ALPHA_604USDT",
+      "listedDays": 21
     }
   ]
 }
