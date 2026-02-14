@@ -1,25 +1,14 @@
 {
-  "updatedAt": "2026-02-14T17:40:17.200Z",
+  "updatedAt": "2026-02-14T17:58:22.853Z",
   "rows": [
-    {
-      "shortSymbol": "ARTX",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.00011103050656753596,
-      "volatility5m": 0.00011103050656753596,
-      "stability": "稳定",
-      "quoteVolume24h": 215092108.23887518,
-      "pair": "ALPHA_474USDT",
-      "listedDays": 85
-    },
     {
       "shortSymbol": "WMTX",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0006689468429005186,
-      "volatility5m": 0.0006960077993284736,
+      "change5m": -0.0001776228818652313,
+      "volatility5m": 0.0014418940031246921,
       "stability": "稳定",
-      "quoteVolume24h": 1736196029.5986476,
+      "quoteVolume24h": 1738451389.970892,
       "pair": "ALPHA_611USDT",
       "listedDays": 19
     },
@@ -27,10 +16,10 @@
       "shortSymbol": "GWEI",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0003117915272557806,
-      "volatility5m": 0.0009927238964430687,
+      "change5m": 0.0025320587787388714,
+      "volatility5m": 0.00774700688792853,
       "stability": "稳定",
-      "quoteVolume24h": 64421245.23630623,
+      "quoteVolume24h": 64740888.82038629,
       "pair": "ALPHA_588USDT",
       "listedDays": 24
     },
@@ -38,12 +27,23 @@
       "shortSymbol": "FIGHT",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.002497237925737182,
-      "volatility5m": 0.002642494420830035,
+      "change5m": 0.011483213378874018,
+      "volatility5m": 0.012202039726035655,
       "stability": "稳定",
-      "quoteVolume24h": 203180791.5393889,
+      "quoteVolume24h": 202699434.562613,
       "pair": "ALPHA_604USDT",
       "listedDays": 23
+    },
+    {
+      "shortSymbol": "ARTX",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.00896396366126388,
+      "volatility5m": 0.013386400454156648,
+      "stability": "稳定",
+      "quoteVolume24h": 212835353.86341804,
+      "pair": "ALPHA_474USDT",
+      "listedDays": 85
     }
   ]
 }
