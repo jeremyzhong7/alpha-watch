@@ -1,25 +1,36 @@
 {
-  "updatedAt": "2026-02-14T13:32:59.343Z",
+  "updatedAt": "2026-02-14T14:03:14.364Z",
   "rows": [
     {
       "shortSymbol": "WMTX",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0009638554216867077,
-      "volatility5m": 0.0013618072289156636,
+      "change5m": -0.000239851155363232,
+      "volatility5m": 0.0008012253667638554,
       "stability": "稳定",
-      "quoteVolume24h": 1680405693.4665945,
+      "quoteVolume24h": 1690026892.6569293,
       "pair": "ALPHA_611USDT",
       "listedDays": 19
+    },
+    {
+      "shortSymbol": "FIGHT",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.0009492965742909055,
+      "volatility5m": 0.0019520101583889893,
+      "stability": "稳定",
+      "quoteVolume24h": 206495430.39097512,
+      "pair": "ALPHA_604USDT",
+      "listedDays": 23
     },
     {
       "shortSymbol": "GWEI",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0018915380453952992,
-      "volatility5m": 0.0029046433739162163,
+      "change5m": 0.00020509274025373183,
+      "volatility5m": 0.0027727771780466583,
       "stability": "稳定",
-      "quoteVolume24h": 61651184.95674515,
+      "quoteVolume24h": 61951226.17043115,
       "pair": "ALPHA_588USDT",
       "listedDays": 24
     },
@@ -27,23 +38,12 @@
       "shortSymbol": "ARTX",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0016470152493988546,
-      "volatility5m": 0.004345616148103825,
+      "change5m": -0.004860077519379961,
+      "volatility5m": 0.008181279069767379,
       "stability": "稳定",
-      "quoteVolume24h": 287222805.6911912,
+      "quoteVolume24h": 273493440.49007934,
       "pair": "ALPHA_474USDT",
       "listedDays": 85
-    },
-    {
-      "shortSymbol": "FIGHT",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.0018495911834615613,
-      "volatility5m": 0.005115203547279144,
-      "stability": "稳定",
-      "quoteVolume24h": 205466690.70426434,
-      "pair": "ALPHA_604USDT",
-      "listedDays": 23
     }
   ]
 }
