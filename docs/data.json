@@ -1,36 +1,25 @@
 {
-  "updatedAt": "2026-02-14T14:03:14.364Z",
+  "updatedAt": "2026-02-14T14:42:02.922Z",
   "rows": [
     {
       "shortSymbol": "WMTX",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.000239851155363232,
-      "volatility5m": 0.0008012253667638554,
+      "change5m": 0.0004591939746126876,
+      "volatility5m": 0.0017866278664633265,
       "stability": "稳定",
-      "quoteVolume24h": 1690026892.6569293,
+      "quoteVolume24h": 1704161254.6871867,
       "pair": "ALPHA_611USDT",
       "listedDays": 19
-    },
-    {
-      "shortSymbol": "FIGHT",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.0009492965742909055,
-      "volatility5m": 0.0019520101583889893,
-      "stability": "稳定",
-      "quoteVolume24h": 206495430.39097512,
-      "pair": "ALPHA_604USDT",
-      "listedDays": 23
     },
     {
       "shortSymbol": "GWEI",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.00020509274025373183,
-      "volatility5m": 0.0027727771780466583,
+      "change5m": 0.0007791527907540512,
+      "volatility5m": 0.0022896927524270285,
       "stability": "稳定",
-      "quoteVolume24h": 61951226.17043115,
+      "quoteVolume24h": 63152669.70417534,
       "pair": "ALPHA_588USDT",
       "listedDays": 24
     },
@@ -38,12 +27,23 @@
       "shortSymbol": "ARTX",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.004860077519379961,
-      "volatility5m": 0.008181279069767379,
+      "change5m": 0.0019550814584951494,
+      "volatility5m": 0.0034910783553142436,
       "stability": "稳定",
-      "quoteVolume24h": 273493440.49007934,
+      "quoteVolume24h": 254348469.24341547,
       "pair": "ALPHA_474USDT",
       "listedDays": 85
+    },
+    {
+      "shortSymbol": "FIGHT",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.0011582834818703496,
+      "volatility5m": 0.005277133439140551,
+      "stability": "稳定",
+      "quoteVolume24h": 206447042.35201284,
+      "pair": "ALPHA_604USDT",
+      "listedDays": 23
     }
   ]
 }
