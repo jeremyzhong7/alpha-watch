@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-02-14T20:37:27.365Z",
+  "updatedAt": "2026-02-14T20:58:33.651Z",
   "rows": [
     {
       "shortSymbol": "WMTX",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.00034959836950006353,
-      "volatility5m": 0.0010178635655197082,
+      "change5m": -0.000609326300647181,
+      "volatility5m": 0.0011597938144329019,
       "stability": "稳定",
-      "quoteVolume24h": 1745153516.9908798,
+      "quoteVolume24h": 1744831724.2382371,
       "pair": "ALPHA_611USDT",
       "listedDays": 19
     },
@@ -16,34 +16,34 @@
       "shortSymbol": "GWEI",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0008531092621980485,
-      "volatility5m": 0.002795996807720252,
+      "change5m": 0.0019053172839233958,
+      "volatility5m": 0.0035938795120627007,
       "stability": "稳定",
-      "quoteVolume24h": 64998192.97833252,
+      "quoteVolume24h": 64907199.23928456,
       "pair": "ALPHA_588USDT",
       "listedDays": 24
-    },
-    {
-      "shortSymbol": "ARTX",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.003924760802645352,
-      "volatility5m": 0.012071311842577504,
-      "stability": "稳定",
-      "quoteVolume24h": 220440621.24919474,
-      "pair": "ALPHA_474USDT",
-      "listedDays": 85
     },
     {
       "shortSymbol": "FIGHT",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.011642227987475927,
-      "volatility5m": 0.015079270563087081,
+      "change5m": 0.0034752481399920277,
+      "volatility5m": 0.0050514618624480445,
       "stability": "稳定",
-      "quoteVolume24h": 201151035.59683755,
+      "quoteVolume24h": 200864330.1817615,
       "pair": "ALPHA_604USDT",
       "listedDays": 23
+    },
+    {
+      "shortSymbol": "ARTX",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.00235386426049427,
+      "volatility5m": 0.014303177716751629,
+      "stability": "稳定",
+      "quoteVolume24h": 219478513.0877344,
+      "pair": "ALPHA_474USDT",
+      "listedDays": 85
     }
   ]
 }
