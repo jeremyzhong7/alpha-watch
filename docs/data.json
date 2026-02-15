@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-02-15T18:53:34.122Z",
+  "updatedAt": "2026-02-15T19:25:30.007Z",
   "rows": [
     {
       "shortSymbol": "ARTX",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0,
+      "change5m": -3.737409320073469e-8,
       "volatility5m": 3.737409320073469e-8,
       "stability": "稳定",
-      "quoteVolume24h": 479162318.06231725,
+      "quoteVolume24h": 485697629.3786242,
       "pair": "ALPHA_474USDT",
       "listedDays": 86
     },
@@ -16,21 +16,32 @@
       "shortSymbol": "WMTX",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0027532326486535965,
-      "volatility5m": 0.0031405258206785944,
+      "change5m": 0.0008648750063284266,
+      "volatility5m": 0.0013689097661139379,
       "stability": "稳定",
-      "quoteVolume24h": 1609364132.1898108,
+      "quoteVolume24h": 1603694941.0630207,
       "pair": "ALPHA_611USDT",
       "listedDays": 20
+    },
+    {
+      "shortSymbol": "CYS",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.0015431609006685205,
+      "volatility5m": 0.0015431609006685205,
+      "stability": "稳定",
+      "quoteVolume24h": 282151992.2151704,
+      "pair": "ALPHA_495USDT",
+      "listedDays": 66
     },
     {
       "shortSymbol": "GWEI",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.00033294259643092816,
-      "volatility5m": 0.003586143268793365,
+      "change5m": 0.0022351697961013614,
+      "volatility5m": 0.0022351697961013614,
       "stability": "稳定",
-      "quoteVolume24h": 64693111.75524012,
+      "quoteVolume24h": 64629517.12226994,
       "pair": "ALPHA_588USDT",
       "listedDays": 25
     },
@@ -38,23 +49,12 @@
       "shortSymbol": "FIGHT",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.005396174863388043,
-      "volatility5m": 0.0059234972677595765,
+      "change5m": 0.0011591836734694662,
+      "volatility5m": 0.0031999999999999954,
       "stability": "稳定",
-      "quoteVolume24h": 135795484.69961542,
+      "quoteVolume24h": 135518438.91579995,
       "pair": "ALPHA_604USDT",
       "listedDays": 24
-    },
-    {
-      "shortSymbol": "CYS",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.005885844207196472,
-      "volatility5m": 0.009996797153024855,
-      "stability": "稳定",
-      "quoteVolume24h": 278458223.450858,
-      "pair": "ALPHA_495USDT",
-      "listedDays": 66
     }
   ]
 }
