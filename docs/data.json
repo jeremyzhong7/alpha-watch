@@ -1,71 +1,71 @@
 {
-  "updatedAt": "2026-02-17T07:13:06.999Z",
+  "updatedAt": "2026-02-17T08:01:56.350Z",
   "rows": [
     {
       "shortSymbol": "WMTX",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0,
-      "volatility5m": 0.0006258307210031377,
+      "change5m": 0.0000254105843470561,
+      "volatility5m": 0.0003755258770501021,
       "stability": "稳定",
-      "quoteVolume24h": 1632432932.5922303,
+      "quoteVolume24h": 1640771031.2544532,
       "pair": "ALPHA_611USDT",
       "listedDays": 22
-    },
-    {
-      "shortSymbol": "GWEI",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.005271882958717515,
-      "volatility5m": 0.006329604970012236,
-      "stability": "稳定",
-      "quoteVolume24h": 178378797.4510552,
-      "pair": "ALPHA_588USDT",
-      "listedDays": 27
-    },
-    {
-      "shortSymbol": "MERL",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.005982905097128368,
-      "volatility5m": 0.006662312968517789,
-      "stability": "稳定",
-      "quoteVolume24h": 221998317.35722962,
-      "pair": "ALPHA_195USDT",
-      "listedDays": 273
-    },
-    {
-      "shortSymbol": "FIGHT",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.004473304937524875,
-      "volatility5m": 0.007654965191543046,
-      "stability": "稳定",
-      "quoteVolume24h": 145327655.04832542,
-      "pair": "ALPHA_604USDT",
-      "listedDays": 26
-    },
-    {
-      "shortSymbol": "BSU",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.001229004506349835,
-      "volatility5m": 0.009909299467431359,
-      "stability": "稳定",
-      "quoteVolume24h": 162214916.40345445,
-      "pair": "ALPHA_315USDT",
-      "listedDays": 192
     },
     {
       "shortSymbol": "ARTX",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0074881946092591025,
-      "volatility5m": 0.013104634738516906,
+      "change5m": 0.0013359167750324353,
+      "volatility5m": 0.0024447334200259985,
       "stability": "稳定",
-      "quoteVolume24h": 71360975.58269335,
+      "quoteVolume24h": 68264567.16482028,
       "pair": "ALPHA_474USDT",
       "listedDays": 88
+    },
+    {
+      "shortSymbol": "BSU",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.0013223832528180036,
+      "volatility5m": 0.002691223832528134,
+      "stability": "稳定",
+      "quoteVolume24h": 179115180.12676707,
+      "pair": "ALPHA_315USDT",
+      "listedDays": 192
+    },
+    {
+      "shortSymbol": "MERL",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.0005587409487217266,
+      "volatility5m": 0.003691295995271165,
+      "stability": "稳定",
+      "quoteVolume24h": 256345898.40869072,
+      "pair": "ALPHA_195USDT",
+      "listedDays": 273
+    },
+    {
+      "shortSymbol": "GWEI",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.0013865445114198537,
+      "volatility5m": 0.0037821635852394756,
+      "stability": "稳定",
+      "quoteVolume24h": 181258868.46675822,
+      "pair": "ALPHA_588USDT",
+      "listedDays": 27
+    },
+    {
+      "shortSymbol": "FIGHT",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.006438985010939834,
+      "volatility5m": 0.0077187733253032955,
+      "stability": "稳定",
+      "quoteVolume24h": 145281058.7211616,
+      "pair": "ALPHA_604USDT",
+      "listedDays": 26
     }
   ]
 }
