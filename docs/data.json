@@ -1,25 +1,36 @@
 {
-  "updatedAt": "2026-02-18T12:55:53.220Z",
+  "updatedAt": "2026-02-18T14:09:21.431Z",
   "rows": [
     {
       "shortSymbol": "WMTX",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.00024970094979397215,
-      "volatility5m": 0.0003395983209433463,
+      "change5m": 0.00006283775292201835,
+      "volatility5m": 0.00012605253236137,
       "stability": "稳定",
-      "quoteVolume24h": 1717904835.77132,
+      "quoteVolume24h": 1710940034.9212236,
       "pair": "ALPHA_611USDT",
       "listedDays": 23
+    },
+    {
+      "shortSymbol": "COLLECT",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.0032810897865286925,
+      "volatility5m": 0.003851862839855267,
+      "stability": "稳定",
+      "quoteVolume24h": 523338923.308712,
+      "pair": "ALPHA_506USDT",
+      "listedDays": 53
     },
     {
       "shortSymbol": "GWEI",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.00213479381273621,
-      "volatility5m": 0.002591828878309818,
+      "change5m": -0.00039508628698326924,
+      "volatility5m": 0.004115597274457129,
       "stability": "稳定",
-      "quoteVolume24h": 71012085.85522845,
+      "quoteVolume24h": 72286074.58455493,
       "pair": "ALPHA_588USDT",
       "listedDays": 28
     },
@@ -27,23 +38,12 @@
       "shortSymbol": "ARTX",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.002034264656153451,
-      "volatility5m": 0.00462243961171072,
+      "change5m": -0.002817501439263103,
+      "volatility5m": 0.0046200345423142416,
       "stability": "稳定",
-      "quoteVolume24h": 91769669.96126573,
+      "quoteVolume24h": 91618267.31312811,
       "pair": "ALPHA_474USDT",
       "listedDays": 89
-    },
-    {
-      "shortSymbol": "COLLECT",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.003637522933347654,
-      "volatility5m": 0.008836858673478722,
-      "stability": "稳定",
-      "quoteVolume24h": 519265762.02588415,
-      "pair": "ALPHA_506USDT",
-      "listedDays": 53
     }
   ]
 }
