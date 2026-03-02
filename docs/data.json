@@ -1,36 +1,25 @@
 {
-  "updatedAt": "2026-03-02T18:27:22.456Z",
+  "updatedAt": "2026-03-02T19:22:59.088Z",
   "rows": [
     {
       "shortSymbol": "GUA",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.000574922415133351,
-      "volatility5m": 0.0022483938809170186,
+      "change5m": 0.00014548107458588693,
+      "volatility5m": 0.0010511544073470048,
       "stability": "稳定",
-      "quoteVolume24h": 95761317.47992992,
+      "quoteVolume24h": 95775139.9622077,
       "pair": "ALPHA_483USDT",
       "listedDays": 95
-    },
-    {
-      "shortSymbol": "IRYS",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.0013307050584726334,
-      "volatility5m": 0.0023647300134198683,
-      "stability": "稳定",
-      "quoteVolume24h": 95402271.72168538,
-      "pair": "ALPHA_479USDT",
-      "listedDays": 97
     },
     {
       "shortSymbol": "STABLE",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.000034793414103767854,
-      "volatility5m": 0.0027461944703324748,
+      "change5m": 0.0007445300010831689,
+      "volatility5m": 0.0013239537243103761,
       "stability": "稳定",
-      "quoteVolume24h": 1564570419.7031705,
+      "quoteVolume24h": 1568587818.9409695,
       "pair": "ALPHA_488USDT",
       "listedDays": 84
     },
@@ -38,12 +27,23 @@
       "shortSymbol": "JCT",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0009206866788145551,
-      "volatility5m": 0.0035612672229149308,
+      "change5m": 0.001683415148166268,
+      "volatility5m": 0.002634351949420542,
       "stability": "稳定",
-      "quoteVolume24h": 127323117.78831951,
+      "quoteVolume24h": 128249013.74812432,
       "pair": "ALPHA_466USDT",
       "listedDays": 112
+    },
+    {
+      "shortSymbol": "IRYS",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.00415879657906113,
+      "volatility5m": 0.005559102838265611,
+      "stability": "稳定",
+      "quoteVolume24h": 97637163.468939,
+      "pair": "ALPHA_479USDT",
+      "listedDays": 97
     }
   ]
 }
