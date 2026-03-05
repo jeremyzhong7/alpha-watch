@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-03-05T11:07:02.908Z",
+  "updatedAt": "2026-03-05T11:48:12.615Z",
   "rows": [
+    {
+      "shortSymbol": "BTW",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.0007276165419715106,
+      "volatility5m": 0.002628463372523162,
+      "stability": "稳定",
+      "quoteVolume24h": 254494693.69711858,
+      "pair": "ALPHA_778USDT",
+      "listedDays": 3
+    },
     {
       "shortSymbol": "STABLE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0017017730496454336,
-      "volatility5m": 0.003012056737588727,
+      "change5m": -0.000732629050262867,
+      "volatility5m": 0.0031402478197395875,
       "stability": "稳定",
-      "quoteVolume24h": 916576861.6135952,
+      "quoteVolume24h": 905359654.1571949,
       "pair": "ALPHA_488USDT",
       "listedDays": 87
-    },
-    {
-      "shortSymbol": "GUA",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.0027273332898684476,
-      "volatility5m": 0.003907358570620481,
-      "stability": "稳定",
-      "quoteVolume24h": 58076708.35305585,
-      "pair": "ALPHA_483USDT",
-      "listedDays": 98
     },
     {
       "shortSymbol": "JCT",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.003635522358462414,
-      "volatility5m": 0.008388141587070824,
+      "change5m": 0.00017255682760907503,
+      "volatility5m": 0.0036834245893479335,
       "stability": "稳定",
-      "quoteVolume24h": 702570088.4612032,
+      "quoteVolume24h": 707290921.3841553,
       "pair": "ALPHA_466USDT",
       "listedDays": 115
     },
     {
-      "shortSymbol": "BTW",
+      "shortSymbol": "GUA",
       "chainId": "56",
-      "fourX": true,
-      "change5m": 0.006936669287973188,
-      "volatility5m": 0.009658857212308952,
+      "fourX": false,
+      "change5m": 0.002319999946202835,
+      "volatility5m": 0.0038479870283237654,
       "stability": "稳定",
-      "quoteVolume24h": 265090778.59302747,
-      "pair": "ALPHA_778USDT",
-      "listedDays": 3
+      "quoteVolume24h": 59702061.875721,
+      "pair": "ALPHA_483USDT",
+      "listedDays": 98
     }
   ]
 }
