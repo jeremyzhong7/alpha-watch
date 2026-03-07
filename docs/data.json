@@ -1,60 +1,60 @@
 {
-  "updatedAt": "2026-03-07T15:00:18.495Z",
+  "updatedAt": "2026-03-07T15:34:18.411Z",
   "rows": [
-    {
-      "shortSymbol": "GUA",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0,
-      "volatility5m": 0,
-      "stability": "稳定",
-      "quoteVolume24h": 58292025.3336932,
-      "pair": "ALPHA_483USDT",
-      "listedDays": 100
-    },
     {
       "shortSymbol": "BTW",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0,
-      "volatility5m": 0,
+      "change5m": 0.0003862495171880878,
+      "volatility5m": 0.0018230977211277422,
       "stability": "稳定",
-      "quoteVolume24h": 683094180.4721093,
+      "quoteVolume24h": 699147979.1990343,
       "pair": "ALPHA_778USDT",
       "listedDays": 5
     },
     {
-      "shortSymbol": "STABLE",
+      "shortSymbol": "GUA",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0002093431682473751,
-      "volatility5m": 0.0002093431682473751,
+      "change5m": -0.002659106399091272,
+      "volatility5m": 0.0038247254827717095,
       "stability": "稳定",
-      "quoteVolume24h": 627182224.9405546,
-      "pair": "ALPHA_488USDT",
-      "listedDays": 89
-    },
-    {
-      "shortSymbol": "BSB",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.0002618767836158731,
-      "volatility5m": 0.0002618767836158731,
-      "stability": "稳定",
-      "quoteVolume24h": 176612095.85410473,
-      "pair": "ALPHA_790USDT",
-      "listedDays": 3
+      "quoteVolume24h": 58622378.13714503,
+      "pair": "ALPHA_483USDT",
+      "listedDays": 100
     },
     {
       "shortSymbol": "JCT",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0003097931820715557,
-      "volatility5m": 0.0003097931820715557,
+      "change5m": -0.0035996493605803424,
+      "volatility5m": 0.0069381842597714995,
       "stability": "稳定",
-      "quoteVolume24h": 124941644.96477385,
+      "quoteVolume24h": 107406519.98188,
       "pair": "ALPHA_466USDT",
       "listedDays": 117
+    },
+    {
+      "shortSymbol": "BSB",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.0029411764705882613,
+      "volatility5m": 0.007654789915966467,
+      "stability": "稳定",
+      "quoteVolume24h": 179074685.51902,
+      "pair": "ALPHA_790USDT",
+      "listedDays": 3
+    },
+    {
+      "shortSymbol": "STABLE",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.004212237762237797,
+      "volatility5m": 0.008020629370629351,
+      "stability": "稳定",
+      "quoteVolume24h": 614622709.9200275,
+      "pair": "ALPHA_488USDT",
+      "listedDays": 89
     }
   ]
 }
