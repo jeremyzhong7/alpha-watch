@@ -1,14 +1,25 @@
 {
-  "updatedAt": "2026-03-08T07:39:05.361Z",
+  "updatedAt": "2026-03-08T07:57:50.888Z",
   "rows": [
+    {
+      "shortSymbol": "GUA",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.002904835796476333,
+      "volatility5m": 0.004090234233788251,
+      "stability": "稳定",
+      "quoteVolume24h": 97143338.63895933,
+      "pair": "ALPHA_483USDT",
+      "listedDays": 101
+    },
     {
       "shortSymbol": "BSB",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0008382747698129266,
-      "volatility5m": 0.005534948507979951,
+      "change5m": 0.0036139863355813735,
+      "volatility5m": 0.006092245406159855,
       "stability": "稳定",
-      "quoteVolume24h": 277061936.13641876,
+      "quoteVolume24h": 276693115.3420418,
       "pair": "ALPHA_790USDT",
       "listedDays": 4
     },
@@ -16,10 +27,10 @@
       "shortSymbol": "STABLE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.002769666666666698,
-      "volatility5m": 0.006951333333333337,
+      "change5m": 0.005722408026755867,
+      "volatility5m": 0.007205685618729179,
       "stability": "稳定",
-      "quoteVolume24h": 382982449.8803502,
+      "quoteVolume24h": 370391091.6187869,
       "pair": "ALPHA_488USDT",
       "listedDays": 90
     },
@@ -27,23 +38,12 @@
       "shortSymbol": "BTW",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.000024256242950385337,
-      "volatility5m": 0.00728261778480493,
+      "change5m": 0.010351684477272432,
+      "volatility5m": 0.0226577679942057,
       "stability": "稳定",
-      "quoteVolume24h": 776103507.8061054,
+      "quoteVolume24h": 779432846.4547455,
       "pair": "ALPHA_778USDT",
       "listedDays": 6
-    },
-    {
-      "shortSymbol": "GUA",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.0019279607688225035,
-      "volatility5m": 0.007484882224757484,
-      "stability": "稳定",
-      "quoteVolume24h": 95333453.14501359,
-      "pair": "ALPHA_483USDT",
-      "listedDays": 101
     }
   ]
 }
