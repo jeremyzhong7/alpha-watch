@@ -1,14 +1,25 @@
 {
-  "updatedAt": "2026-03-08T18:50:20.775Z",
+  "updatedAt": "2026-03-08T19:17:13.032Z",
   "rows": [
+    {
+      "shortSymbol": "BSB",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.0007760243088380109,
+      "volatility5m": 0.0019231470257137905,
+      "stability": "稳定",
+      "quoteVolume24h": 523892178.6099163,
+      "pair": "ALPHA_790USDT",
+      "listedDays": 4
+    },
     {
       "shortSymbol": "GUA",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.000014108618955183944,
-      "volatility5m": 0.000014108618955183944,
+      "change5m": -0.001872846091227227,
+      "volatility5m": 0.002669699874587861,
       "stability": "稳定",
-      "quoteVolume24h": 221142568.49801177,
+      "quoteVolume24h": 223274611.60337317,
       "pair": "ALPHA_483USDT",
       "listedDays": 101
     },
@@ -16,32 +27,21 @@
       "shortSymbol": "STABLE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.00009264799681326451,
-      "volatility5m": 0.00009264799681326451,
+      "change5m": 0.0028047103966875294,
+      "volatility5m": 0.002874229428104468,
       "stability": "稳定",
-      "quoteVolume24h": 73441044.14266735,
+      "quoteVolume24h": 68349656.72055109,
       "pair": "ALPHA_488USDT",
       "listedDays": 90
-    },
-    {
-      "shortSymbol": "BSB",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.00015394088669966135,
-      "volatility5m": 0.0008362068965516716,
-      "stability": "稳定",
-      "quoteVolume24h": 523019585.6312034,
-      "pair": "ALPHA_790USDT",
-      "listedDays": 4
     },
     {
       "shortSymbol": "BTW",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0009727055907632692,
-      "volatility5m": 0.000989546463677978,
+      "change5m": 0.003867690353864666,
+      "volatility5m": 0.004110719852219513,
       "stability": "稳定",
-      "quoteVolume24h": 773754035.6196854,
+      "quoteVolume24h": 777607071.1503938,
       "pair": "ALPHA_778USDT",
       "listedDays": 6
     }
