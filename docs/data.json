@@ -1,25 +1,36 @@
 {
-  "updatedAt": "2026-03-08T17:43:02.357Z",
+  "updatedAt": "2026-03-08T17:59:10.552Z",
   "rows": [
     {
       "shortSymbol": "STABLE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.001600278950782933,
-      "volatility5m": 0.001870177244388658,
+      "change5m": 0.002907843248113122,
+      "volatility5m": 0.004204195363441979,
       "stability": "稳定",
-      "quoteVolume24h": 88744170.61436388,
+      "quoteVolume24h": 84124725.95646314,
       "pair": "ALPHA_488USDT",
       "listedDays": 90
+    },
+    {
+      "shortSymbol": "BTW",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.0011312333882331515,
+      "volatility5m": 0.006094562859097725,
+      "stability": "稳定",
+      "quoteVolume24h": 771061470.058338,
+      "pair": "ALPHA_778USDT",
+      "listedDays": 6
     },
     {
       "shortSymbol": "GUA",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.002698702021970947,
-      "volatility5m": 0.0032508334448513795,
+      "change5m": -0.0007993348708406706,
+      "volatility5m": 0.006942448225767062,
       "stability": "稳定",
-      "quoteVolume24h": 214910026.6509466,
+      "quoteVolume24h": 216608993.30045474,
       "pair": "ALPHA_483USDT",
       "listedDays": 101
     },
@@ -27,23 +38,12 @@
       "shortSymbol": "BSB",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.004281963470319619,
-      "volatility5m": 0.008507610350076142,
+      "change5m": 0.007972153604311612,
+      "volatility5m": 0.010941867938700741,
       "stability": "稳定",
-      "quoteVolume24h": 519039571.1681739,
+      "quoteVolume24h": 520331562.4959152,
       "pair": "ALPHA_790USDT",
       "listedDays": 4
-    },
-    {
-      "shortSymbol": "BTW",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.005058004773653723,
-      "volatility5m": 0.011505022101843522,
-      "stability": "稳定",
-      "quoteVolume24h": 770102379.5705223,
-      "pair": "ALPHA_778USDT",
-      "listedDays": 6
     }
   ]
 }
