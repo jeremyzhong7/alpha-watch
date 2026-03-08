@@ -1,25 +1,14 @@
 {
-  "updatedAt": "2026-03-08T12:26:03.731Z",
+  "updatedAt": "2026-03-08T13:24:29.166Z",
   "rows": [
-    {
-      "shortSymbol": "BSB",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.00007675186123271166,
-      "volatility5m": 0.0015350372246527419,
-      "stability": "稳定",
-      "quoteVolume24h": 418007417.4054408,
-      "pair": "ALPHA_790USDT",
-      "listedDays": 4
-    },
     {
       "shortSymbol": "GUA",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.00030786226047855593,
-      "volatility5m": 0.001824789634546747,
+      "change5m": 0.00157259665583321,
+      "volatility5m": 0.002573567258342159,
       "stability": "稳定",
-      "quoteVolume24h": 135129687.92817894,
+      "quoteVolume24h": 153159326.54286695,
       "pair": "ALPHA_483USDT",
       "listedDays": 101
     },
@@ -27,10 +16,10 @@
       "shortSymbol": "STABLE",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0018201750259707395,
-      "volatility5m": 0.002801564280996115,
+      "change5m": 0.005319802728134614,
+      "volatility5m": 0.007000387341699801,
       "stability": "稳定",
-      "quoteVolume24h": 238371571.57538524,
+      "quoteVolume24h": 208133621.37477383,
       "pair": "ALPHA_488USDT",
       "listedDays": 90
     },
@@ -38,12 +27,23 @@
       "shortSymbol": "BTW",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.004166471607134522,
-      "volatility5m": 0.004166471607134522,
+      "change5m": 0.001139233038348174,
+      "volatility5m": 0.00820058997050149,
       "stability": "稳定",
-      "quoteVolume24h": 746947166.8338168,
+      "quoteVolume24h": 746729175.0367172,
       "pair": "ALPHA_778USDT",
       "listedDays": 6
+    },
+    {
+      "shortSymbol": "BSB",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.001950574124399859,
+      "volatility5m": 0.009104301543439986,
+      "stability": "稳定",
+      "quoteVolume24h": 437741744.19400525,
+      "pair": "ALPHA_790USDT",
+      "listedDays": 4
     }
   ]
 }
