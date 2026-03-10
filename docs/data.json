@@ -1,25 +1,14 @@
 {
-  "updatedAt": "2026-03-10T04:25:02.528Z",
+  "updatedAt": "2026-03-10T05:33:38.350Z",
   "rows": [
-    {
-      "shortSymbol": "BSB",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.00038625259425940434,
-      "volatility5m": 0.00038625259425940434,
-      "stability": "稳定",
-      "quoteVolume24h": 633374815.3735571,
-      "pair": "ALPHA_790USDT",
-      "listedDays": 6
-    },
     {
       "shortSymbol": "GUA",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0015236954786269998,
-      "volatility5m": 0.0018604035125915608,
+      "change5m": -0.00018462171646294476,
+      "volatility5m": 0.001613566753762878,
       "stability": "稳定",
-      "quoteVolume24h": 578387911.0292692,
+      "quoteVolume24h": 596815061.186788,
       "pair": "ALPHA_483USDT",
       "listedDays": 103
     },
@@ -27,12 +16,23 @@
       "shortSymbol": "BTW",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.016126893939393903,
-      "volatility5m": 0.018766666666666657,
+      "change5m": 0.012995282336256547,
+      "volatility5m": 0.014438283779258028,
       "stability": "稳定",
-      "quoteVolume24h": 454636273.2901097,
+      "quoteVolume24h": 447789388.0426419,
       "pair": "ALPHA_778USDT",
       "listedDays": 8
+    },
+    {
+      "shortSymbol": "BSB",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.012491034964508508,
+      "volatility5m": 0.0182088531366631,
+      "stability": "稳定",
+      "quoteVolume24h": 652219370.9285645,
+      "pair": "ALPHA_790USDT",
+      "listedDays": 6
     }
   ]
 }
