@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-03-12T19:10:39.085Z",
+  "updatedAt": "2026-03-12T19:54:33.078Z",
   "rows": [
-    {
-      "shortSymbol": "JCT",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.0008085801909403935,
-      "volatility5m": 0.0008085801909403935,
-      "stability": "稳定",
-      "quoteVolume24h": 258129809.8514314,
-      "pair": "ALPHA_466USDT",
-      "listedDays": 122
-    },
     {
       "shortSymbol": "GUA",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.00052876413564243,
-      "volatility5m": 0.0008126860786271358,
+      "change5m": 0.00001718222014068044,
+      "volatility5m": 0.001367711912400912,
       "stability": "稳定",
-      "quoteVolume24h": 1139849937.6080968,
+      "quoteVolume24h": 1139450841.8326035,
       "pair": "ALPHA_483USDT",
       "listedDays": 105
     },
     {
-      "shortSymbol": "BSB",
+      "shortSymbol": "JCT",
       "chainId": "56",
-      "fourX": true,
-      "change5m": -0.0008258057399998228,
-      "volatility5m": 0.001953886056797347,
+      "fourX": false,
+      "change5m": -0.0016915287332834293,
+      "volatility5m": 0.0031787117135527415,
       "stability": "稳定",
-      "quoteVolume24h": 176189065.161881,
-      "pair": "ALPHA_790USDT",
-      "listedDays": 8
+      "quoteVolume24h": 257532477.39570338,
+      "pair": "ALPHA_466USDT",
+      "listedDays": 122
     },
     {
       "shortSymbol": "GWEI",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0012549991687865502,
-      "volatility5m": 0.002394541457389118,
+      "change5m": -0.0020901388194455987,
+      "volatility5m": 0.0037048449241322513,
       "stability": "稳定",
-      "quoteVolume24h": 87410471.16713975,
+      "quoteVolume24h": 89881446.13299856,
       "pair": "ALPHA_588USDT",
       "listedDays": 50
+    },
+    {
+      "shortSymbol": "BSB",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.0006026766307784581,
+      "volatility5m": 0.004509912781918548,
+      "stability": "稳定",
+      "quoteVolume24h": 174485797.59994662,
+      "pair": "ALPHA_790USDT",
+      "listedDays": 8
     }
   ]
 }
