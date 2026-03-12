@@ -1,25 +1,36 @@
 {
-  "updatedAt": "2026-03-12T21:48:13.530Z",
+  "updatedAt": "2026-03-12T22:12:56.372Z",
   "rows": [
     {
       "shortSymbol": "GUA",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.000519379381200548,
-      "volatility5m": 0.0016927178012798546,
+      "change5m": -0.0002473738338814127,
+      "volatility5m": 0.0015378018565325345,
       "stability": "稳定",
-      "quoteVolume24h": 1138468992.8943765,
+      "quoteVolume24h": 1137931340.2251463,
       "pair": "ALPHA_483USDT",
       "listedDays": 105
+    },
+    {
+      "shortSymbol": "JCT",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.0006303076689309366,
+      "volatility5m": 0.00196971146540907,
+      "stability": "稳定",
+      "quoteVolume24h": 255896314.8956878,
+      "pair": "ALPHA_466USDT",
+      "listedDays": 122
     },
     {
       "shortSymbol": "BSB",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0007857378672829844,
-      "volatility5m": 0.0022448332783096053,
+      "change5m": 0.0024331215196350168,
+      "volatility5m": 0.004314791282865065,
       "stability": "稳定",
-      "quoteVolume24h": 171757941.01369482,
+      "quoteVolume24h": 171327815.23930317,
       "pair": "ALPHA_790USDT",
       "listedDays": 8
     },
@@ -27,23 +38,12 @@
       "shortSymbol": "GWEI",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.002140503040202635,
-      "volatility5m": 0.002851773367094468,
+      "change5m": -0.003098004549525229,
+      "volatility5m": 0.006018980267649062,
       "stability": "稳定",
-      "quoteVolume24h": 94074035.59630841,
+      "quoteVolume24h": 94779984.98909263,
       "pair": "ALPHA_588USDT",
       "listedDays": 50
-    },
-    {
-      "shortSymbol": "JCT",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0036101083032490846,
-      "volatility5m": 0.0040985677470790766,
-      "stability": "稳定",
-      "quoteVolume24h": 256190611.6329618,
-      "pair": "ALPHA_466USDT",
-      "listedDays": 122
     }
   ]
 }
