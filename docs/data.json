@@ -1,36 +1,25 @@
 {
-  "updatedAt": "2026-03-12T21:06:08.671Z",
+  "updatedAt": "2026-03-12T21:48:13.530Z",
   "rows": [
     {
       "shortSymbol": "GUA",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.00018847916707607267,
-      "volatility5m": 0.0009136605456203422,
+      "change5m": -0.000519379381200548,
+      "volatility5m": 0.0016927178012798546,
       "stability": "稳定",
-      "quoteVolume24h": 1139637235.7088773,
+      "quoteVolume24h": 1138468992.8943765,
       "pair": "ALPHA_483USDT",
       "listedDays": 105
-    },
-    {
-      "shortSymbol": "JCT",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.00013600738973489472,
-      "volatility5m": 0.0009690526518607716,
-      "stability": "稳定",
-      "quoteVolume24h": 256537082.02820298,
-      "pair": "ALPHA_466USDT",
-      "listedDays": 122
     },
     {
       "shortSymbol": "BSB",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0013555768658443752,
-      "volatility5m": 0.0016533844780265217,
+      "change5m": 0.0007857378672829844,
+      "volatility5m": 0.0022448332783096053,
       "stability": "稳定",
-      "quoteVolume24h": 172523840.1939887,
+      "quoteVolume24h": 171757941.01369482,
       "pair": "ALPHA_790USDT",
       "listedDays": 8
     },
@@ -38,12 +27,23 @@
       "shortSymbol": "GWEI",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0012082217982121847,
-      "volatility5m": 0.005732466058965015,
+      "change5m": -0.002140503040202635,
+      "volatility5m": 0.002851773367094468,
       "stability": "稳定",
-      "quoteVolume24h": 92704638.43122461,
+      "quoteVolume24h": 94074035.59630841,
       "pair": "ALPHA_588USDT",
       "listedDays": 50
+    },
+    {
+      "shortSymbol": "JCT",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.0036101083032490846,
+      "volatility5m": 0.0040985677470790766,
+      "stability": "稳定",
+      "quoteVolume24h": 256190611.6329618,
+      "pair": "ALPHA_466USDT",
+      "listedDays": 122
     }
   ]
 }
