@@ -1,14 +1,36 @@
 {
-  "updatedAt": "2026-03-13T08:05:01.689Z",
+  "updatedAt": "2026-03-13T08:57:52.689Z",
   "rows": [
+    {
+      "shortSymbol": "GUA",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.0007471889664966036,
+      "volatility5m": 0.0014561773545609224,
+      "stability": "稳定",
+      "quoteVolume24h": 1188552034.075144,
+      "pair": "ALPHA_483USDT",
+      "listedDays": 106
+    },
+    {
+      "shortSymbol": "GWEI",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.001302063349777781,
+      "volatility5m": 0.0028184214679779582,
+      "stability": "稳定",
+      "quoteVolume24h": 343814307.5766493,
+      "pair": "ALPHA_588USDT",
+      "listedDays": 51
+    },
     {
       "shortSymbol": "BSB",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0,
-      "volatility5m": 0,
+      "change5m": -0.0012184790740658452,
+      "volatility5m": 0.0029344006256509145,
       "stability": "稳定",
-      "quoteVolume24h": 111662247.18227452,
+      "quoteVolume24h": 104071744.58657353,
       "pair": "ALPHA_790USDT",
       "listedDays": 9
     },
@@ -16,34 +38,12 @@
       "shortSymbol": "JCT",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.00215560833810108,
-      "volatility5m": 0.002340539884533376,
+      "change5m": -0.006757941871382351,
+      "volatility5m": 0.00688691022770646,
       "stability": "稳定",
-      "quoteVolume24h": 147071485.45234516,
+      "quoteVolume24h": 131517085.30580392,
       "pair": "ALPHA_466USDT",
       "listedDays": 123
-    },
-    {
-      "shortSymbol": "GWEI",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.001485729180242499,
-      "volatility5m": 0.002488875649308411,
-      "stability": "稳定",
-      "quoteVolume24h": 300860456.4534933,
-      "pair": "ALPHA_588USDT",
-      "listedDays": 51
-    },
-    {
-      "shortSymbol": "GUA",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0025165751430506287,
-      "volatility5m": 0.0035630431962640928,
-      "stability": "稳定",
-      "quoteVolume24h": 1202629469.240007,
-      "pair": "ALPHA_483USDT",
-      "listedDays": 106
     }
   ]
 }
