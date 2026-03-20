@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-20T22:15:18.925Z",
+  "updatedAt": "2026-03-20T22:51:06.615Z",
   "rows": [
     {
       "shortSymbol": "GWEI",
@@ -8,42 +8,42 @@
       "change5m": 0,
       "volatility5m": 0,
       "stability": "稳定",
-      "quoteVolume24h": 406879697.3576154,
+      "quoteVolume24h": 406883076.46228784,
       "pair": "ALPHA_588USDT",
       "listedDays": 58
-    },
-    {
-      "shortSymbol": "GUA",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0005395521744815704,
-      "volatility5m": 0.001152728901147619,
-      "stability": "稳定",
-      "quoteVolume24h": 1280558912.8877087,
-      "pair": "ALPHA_483USDT",
-      "listedDays": 113
-    },
-    {
-      "shortSymbol": "BSB",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.0013655400860990079,
-      "volatility5m": 0.0014955962831719111,
-      "stability": "稳定",
-      "quoteVolume24h": 111750631.08911574,
-      "pair": "ALPHA_790USDT",
-      "listedDays": 16
     },
     {
       "shortSymbol": "VELVET",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0011761623055678418,
-      "volatility5m": 0.0015603855713405333,
+      "change5m": 0.00004657949920057641,
+      "volatility5m": 0.00006638408437142871,
       "stability": "稳定",
-      "quoteVolume24h": 168000741.36767954,
+      "quoteVolume24h": 166975102.890539,
       "pair": "ALPHA_267USDT",
       "listedDays": 253
+    },
+    {
+      "shortSymbol": "BSB",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.00039258517034067904,
+      "volatility5m": 0.0008372745490981604,
+      "stability": "稳定",
+      "quoteVolume24h": 115295647.3037963,
+      "pair": "ALPHA_790USDT",
+      "listedDays": 16
+    },
+    {
+      "shortSymbol": "GUA",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.0005693026314300839,
+      "volatility5m": 0.0013571217458051067,
+      "stability": "稳定",
+      "quoteVolume24h": 1279502402.591677,
+      "pair": "ALPHA_483USDT",
+      "listedDays": 113
     }
   ]
 }
