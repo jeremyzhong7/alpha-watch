@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T07:21:47.340Z",
+  "updatedAt": "2026-03-21T07:50:54.337Z",
   "rows": [
     {
       "shortSymbol": "VELVET",
@@ -8,7 +8,7 @@
       "change5m": 0,
       "volatility5m": 0,
       "stability": "稳定",
-      "quoteVolume24h": 107615172.29345962,
+      "quoteVolume24h": 99956377.26919885,
       "pair": "ALPHA_267USDT",
       "listedDays": 254
     },
@@ -16,45 +16,45 @@
       "shortSymbol": "CRCLon",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0,
-      "volatility5m": 0.0003926187671770488,
+      "change5m": -0.00023566378633150932,
+      "volatility5m": 0.0006284367635506544,
       "stability": "稳定",
-      "quoteVolume24h": 71980622.343341,
+      "quoteVolume24h": 77304024.786539,
       "pair": "ALPHA_742USDT",
       "listedDays": 25
-    },
-    {
-      "shortSymbol": "GWEI",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.001533116178067254,
-      "volatility5m": 0.001533116178067254,
-      "stability": "稳定",
-      "quoteVolume24h": 301228543.3729459,
-      "pair": "ALPHA_588USDT",
-      "listedDays": 59
-    },
-    {
-      "shortSymbol": "BSB",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.0011655926839981086,
-      "volatility5m": 0.0033136249631233405,
-      "stability": "稳定",
-      "quoteVolume24h": 201744086.6577571,
-      "pair": "ALPHA_790USDT",
-      "listedDays": 17
     },
     {
       "shortSymbol": "GUA",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.008263450720723533,
-      "volatility5m": 0.012586652796842757,
+      "change5m": 0.0003687938523219696,
+      "volatility5m": 0.0008065486134313488,
       "stability": "稳定",
-      "quoteVolume24h": 1211311206.4235783,
+      "quoteVolume24h": 1210402615.384242,
       "pair": "ALPHA_483USDT",
       "listedDays": 114
+    },
+    {
+      "shortSymbol": "BSB",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.0009053661420778735,
+      "volatility5m": 0.0013897812118851686,
+      "stability": "稳定",
+      "quoteVolume24h": 207966226.78397608,
+      "pair": "ALPHA_790USDT",
+      "listedDays": 17
+    },
+    {
+      "shortSymbol": "GWEI",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.0032432432432431863,
+      "volatility5m": 0.003528864864864799,
+      "stability": "稳定",
+      "quoteVolume24h": 282904796.4736815,
+      "pair": "ALPHA_588USDT",
+      "listedDays": 59
     }
   ]
 }
