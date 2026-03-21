@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T04:58:21.526Z",
+  "updatedAt": "2026-03-21T05:51:15.424Z",
   "rows": [
     {
       "shortSymbol": "VELVET",
@@ -8,7 +8,7 @@
       "change5m": 0,
       "volatility5m": 0,
       "stability": "稳定",
-      "quoteVolume24h": 137567011.14433512,
+      "quoteVolume24h": 129050661.57412203,
       "pair": "ALPHA_267USDT",
       "listedDays": 254
     },
@@ -16,34 +16,45 @@
       "shortSymbol": "GWEI",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.002300298581802606,
-      "volatility5m": 0.002300298581802606,
+      "change5m": 0,
+      "volatility5m": 0,
       "stability": "稳定",
-      "quoteVolume24h": 361659579.3507934,
+      "quoteVolume24h": 344254196.08237576,
       "pair": "ALPHA_588USDT",
       "listedDays": 59
     },
     {
-      "shortSymbol": "GUA",
+      "shortSymbol": "CRCLon",
       "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0013838915993169593,
-      "volatility5m": 0.002419451140776474,
+      "fourX": true,
+      "change5m": 0.00007871536523922311,
+      "volatility5m": 0.00015743073047855808,
       "stability": "稳定",
-      "quoteVolume24h": 1264566677.4320877,
-      "pair": "ALPHA_483USDT",
-      "listedDays": 114
+      "quoteVolume24h": 55383401.225119,
+      "pair": "ALPHA_742USDT",
+      "listedDays": 25
     },
     {
       "shortSymbol": "BSB",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0003731999999999347,
-      "volatility5m": 0.005111100000000091,
+      "change5m": 0.0003282980866061807,
+      "volatility5m": 0.000788418932527641,
       "stability": "稳定",
-      "quoteVolume24h": 160433826.099447,
+      "quoteVolume24h": 172088120.20941612,
       "pair": "ALPHA_790USDT",
       "listedDays": 17
+    },
+    {
+      "shortSymbol": "GUA",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.0006459924276455098,
+      "volatility5m": 0.0035595199897324125,
+      "stability": "稳定",
+      "quoteVolume24h": 1266327804.991583,
+      "pair": "ALPHA_483USDT",
+      "listedDays": 114
     }
   ]
 }
