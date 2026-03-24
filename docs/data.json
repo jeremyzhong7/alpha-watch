@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-24T04:49:30.137Z",
+  "updatedAt": "2026-03-24T05:52:53.960Z",
   "rows": [
     {
       "shortSymbol": "AAPLon",
@@ -8,7 +8,7 @@
       "change5m": 0,
       "volatility5m": 0,
       "stability": "稳定",
-      "quoteVolume24h": 71744811.544272,
+      "quoteVolume24h": 69755750.207934,
       "pair": "ALPHA_741USDT",
       "listedDays": 28
     },
@@ -19,18 +19,29 @@
       "change5m": 0,
       "volatility5m": 0,
       "stability": "稳定",
-      "quoteVolume24h": 384440246.741001,
+      "quoteVolume24h": 347672375.289532,
       "pair": "ALPHA_742USDT",
       "listedDays": 28
+    },
+    {
+      "shortSymbol": "GUA",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.0009596503060011738,
+      "volatility5m": 0.001536861198267251,
+      "stability": "稳定",
+      "quoteVolume24h": 1175266594.9442334,
+      "pair": "ALPHA_483USDT",
+      "listedDays": 117
     },
     {
       "shortSymbol": "UP",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0015785384615383342,
-      "volatility5m": 0.0035706923076923324,
+      "change5m": 0.0006701697141120388,
+      "volatility5m": 0.0019506138237477765,
       "stability": "稳定",
-      "quoteVolume24h": 69322966.6550876,
+      "quoteVolume24h": 75061156.43365948,
       "pair": "ALPHA_804USDT",
       "listedDays": 11
     },
@@ -38,23 +49,12 @@
       "shortSymbol": "BSB",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.001245141455296879,
-      "volatility5m": 0.00471147895084254,
+      "change5m": -0.003302098437783381,
+      "volatility5m": 0.0073043220371529815,
       "stability": "稳定",
-      "quoteVolume24h": 291364546.1468848,
+      "quoteVolume24h": 302602572.8557715,
       "pair": "ALPHA_790USDT",
       "listedDays": 20
-    },
-    {
-      "shortSymbol": "GUA",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.009685508913616905,
-      "volatility5m": 0.012953662182939665,
-      "stability": "稳定",
-      "quoteVolume24h": 1173564284.7092412,
-      "pair": "ALPHA_483USDT",
-      "listedDays": 117
     }
   ]
 }
