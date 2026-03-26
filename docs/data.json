@@ -1,14 +1,25 @@
 {
-  "updatedAt": "2026-03-26T06:44:32.994Z",
+  "updatedAt": "2026-03-26T07:49:53.256Z",
   "rows": [
+    {
+      "shortSymbol": "GUA",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.0007989658271124209,
+      "volatility5m": 0.006078748977250507,
+      "stability": "稳定",
+      "quoteVolume24h": 647458139.6507291,
+      "pair": "ALPHA_483USDT",
+      "listedDays": 119
+    },
     {
       "shortSymbol": "BTW",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0004623916811092053,
-      "volatility5m": 0.0036173310225302525,
+      "change5m": 0.0031145328719723695,
+      "volatility5m": 0.006885813148788971,
       "stability": "稳定",
-      "quoteVolume24h": 54644494.97837195,
+      "quoteVolume24h": 60007649.63916196,
       "pair": "ALPHA_778USDT",
       "listedDays": 24
     },
@@ -16,10 +27,10 @@
       "shortSymbol": "UP",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0027598598279706147,
-      "volatility5m": 0.0038223000955718957,
+      "change5m": 0.0010907738095237852,
+      "volatility5m": 0.011904761904761915,
       "stability": "稳定",
-      "quoteVolume24h": 859297061.7173074,
+      "quoteVolume24h": 922111498.8495884,
       "pair": "ALPHA_804USDT",
       "listedDays": 13
     },
@@ -27,23 +38,12 @@
       "shortSymbol": "TRIA",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.004077935313767316,
-      "volatility5m": 0.004527945641342483,
+      "change5m": 0.004947841721870084,
+      "volatility5m": 0.015980815892235285,
       "stability": "稳定",
-      "quoteVolume24h": 89256089.18927719,
+      "quoteVolume24h": 120066873.55122754,
       "pair": "ALPHA_669USDT",
       "listedDays": 51
-    },
-    {
-      "shortSymbol": "GUA",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.006064650710499076,
-      "volatility5m": 0.013013708083691398,
-      "stability": "稳定",
-      "quoteVolume24h": 691355608.3352605,
-      "pair": "ALPHA_483USDT",
-      "listedDays": 119
     }
   ]
 }
