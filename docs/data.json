@@ -1,36 +1,25 @@
 {
-  "updatedAt": "2026-03-27T08:30:11.007Z",
+  "updatedAt": "2026-03-27T09:33:00.073Z",
   "rows": [
     {
       "shortSymbol": "UP",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.00005074742125883806,
-      "volatility5m": 0.00008588449445650774,
+      "change5m": 0.0002731230812168718,
+      "volatility5m": 0.001608875244208766,
       "stability": "稳定",
-      "quoteVolume24h": 1682122332.4865704,
+      "quoteVolume24h": 1745753147.569677,
       "pair": "ALPHA_804USDT",
       "listedDays": 14
-    },
-    {
-      "shortSymbol": "BTW",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.00023198665639651616,
-      "volatility5m": 0.00023198665639651616,
-      "stability": "稳定",
-      "quoteVolume24h": 108711793.18313876,
-      "pair": "ALPHA_778USDT",
-      "listedDays": 25
     },
     {
       "shortSymbol": "VELVET",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.000416105739811605,
-      "volatility5m": 0.002269612042589691,
+      "change5m": -0.0005294617228736864,
+      "volatility5m": 0.00229303104253382,
       "stability": "稳定",
-      "quoteVolume24h": 155448252.99760443,
+      "quoteVolume24h": 227345384.98280382,
       "pair": "ALPHA_267USDT",
       "listedDays": 260
     },
@@ -38,12 +27,23 @@
       "shortSymbol": "TRIA",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.00388913975105003,
-      "volatility5m": 0.005963892888483775,
+      "change5m": -0.0017611289304572133,
+      "volatility5m": 0.002521432987510709,
       "stability": "稳定",
-      "quoteVolume24h": 300214341.6132955,
+      "quoteVolume24h": 259475505.44020036,
       "pair": "ALPHA_669USDT",
       "listedDays": 52
+    },
+    {
+      "shortSymbol": "BTW",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.0020818757015509297,
+      "volatility5m": 0.003758047385826627,
+      "stability": "稳定",
+      "quoteVolume24h": 103884968.75883903,
+      "pair": "ALPHA_778USDT",
+      "listedDays": 25
     }
   ]
 }
