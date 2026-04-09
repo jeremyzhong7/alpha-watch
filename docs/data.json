@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-04-09T12:42:42.837Z",
+  "updatedAt": "2026-04-09T14:30:11.429Z",
   "rows": [
     {
-      "shortSymbol": "PRL",
+      "shortSymbol": "UP",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0007476648862543966,
-      "volatility5m": 0.003989024265647601,
+      "change5m": 0.00004531037607604098,
+      "volatility5m": 0.00004531037607604098,
       "stability": "稳定",
-      "quoteVolume24h": 299319806.4148838,
-      "pair": "ALPHA_823USDT",
-      "listedDays": 15
+      "quoteVolume24h": 852064237.0809528,
+      "pair": "ALPHA_804USDT",
+      "listedDays": 27
     },
     {
       "shortSymbol": "EDGE",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.002654534920467764,
-      "volatility5m": 0.004160908037501295,
+      "change5m": 0.0003011767235019256,
+      "volatility5m": 0.0003164122348986931,
       "stability": "稳定",
-      "quoteVolume24h": 594148712.3587494,
+      "quoteVolume24h": 613621945.3358597,
       "pair": "ALPHA_838USDT",
       "listedDays": 9
+    },
+    {
+      "shortSymbol": "PRL",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.0003748353927253889,
+      "volatility5m": 0.0003748353927253889,
+      "stability": "稳定",
+      "quoteVolume24h": 232383769.4151769,
+      "pair": "ALPHA_823USDT",
+      "listedDays": 15
     },
     {
       "shortSymbol": "BLUAI",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0007817480710966492,
-      "volatility5m": 0.005301694092708569,
+      "change5m": 0.0028332123541860714,
+      "volatility5m": 0.0062530031795364595,
       "stability": "稳定",
-      "quoteVolume24h": 422760950.6915594,
+      "quoteVolume24h": 449281214.4118957,
       "pair": "ALPHA_438USDT",
       "listedDays": 170
-    },
-    {
-      "shortSymbol": "UP",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.006327115256495655,
-      "volatility5m": 0.009206351321341242,
-      "stability": "稳定",
-      "quoteVolume24h": 827926049.8242936,
-      "pair": "ALPHA_804USDT",
-      "listedDays": 27
     }
   ]
 }
