@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-04-10T02:40:58.616Z",
+  "updatedAt": "2026-04-10T05:15:08.044Z",
   "rows": [
     {
-      "shortSymbol": "BLUAI",
+      "shortSymbol": "PRL",
       "chainId": "56",
-      "fourX": false,
-      "change5m": 0,
-      "volatility5m": 0,
+      "fourX": true,
+      "change5m": -0.00009909981812556238,
+      "volatility5m": 0.00009909981812556238,
       "stability": "稳定",
-      "quoteVolume24h": 445107905.4637384,
-      "pair": "ALPHA_438USDT",
-      "listedDays": 171
+      "quoteVolume24h": 155718650.81888926,
+      "pair": "ALPHA_823USDT",
+      "listedDays": 16
     },
     {
       "shortSymbol": "UP",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0004478947586065475,
-      "volatility5m": 0.0006670811590018258,
+      "change5m": -0.0000012368752645958464,
+      "volatility5m": 0.0001355065567674039,
       "stability": "稳定",
-      "quoteVolume24h": 911019296.7932447,
+      "quoteVolume24h": 985575554.4976119,
       "pair": "ALPHA_804USDT",
       "listedDays": 28
-    },
-    {
-      "shortSymbol": "PRL",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.0003710875042189334,
-      "volatility5m": 0.0018671028219493279,
-      "stability": "稳定",
-      "quoteVolume24h": 176109871.8945382,
-      "pair": "ALPHA_823USDT",
-      "listedDays": 16
     },
     {
       "shortSymbol": "EDGE",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0026575789534704895,
-      "volatility5m": 0.003092334257368961,
+      "change5m": -0.0005132306577461176,
+      "volatility5m": 0.0006098834542805234,
       "stability": "稳定",
-      "quoteVolume24h": 566526484.6323042,
+      "quoteVolume24h": 499323798.4602154,
       "pair": "ALPHA_838USDT",
       "listedDays": 10
+    },
+    {
+      "shortSymbol": "BLUAI",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.0011154211130905657,
+      "volatility5m": 0.0018300992463178669,
+      "stability": "稳定",
+      "quoteVolume24h": 433306358.6666194,
+      "pair": "ALPHA_438USDT",
+      "listedDays": 171
     }
   ]
 }
