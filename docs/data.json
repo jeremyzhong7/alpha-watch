@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-04-10T08:44:38.888Z",
+  "updatedAt": "2026-04-10T09:55:18.045Z",
   "rows": [
-    {
-      "shortSymbol": "UP",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.00009498184678141325,
-      "volatility5m": 0.002148256562228706,
-      "stability": "稳定",
-      "quoteVolume24h": 985802319.9591621,
-      "pair": "ALPHA_804USDT",
-      "listedDays": 28
-    },
     {
       "shortSymbol": "BLUAI",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.003991856944784679,
-      "volatility5m": 0.003991856944784679,
+      "change5m": 0,
+      "volatility5m": 0,
       "stability": "稳定",
-      "quoteVolume24h": 311931576.39860255,
+      "quoteVolume24h": 240916326.69422558,
       "pair": "ALPHA_438USDT",
       "listedDays": 171
     },
     {
-      "shortSymbol": "PRL",
+      "shortSymbol": "UP",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0012925055526775398,
-      "volatility5m": 0.005143930692148279,
+      "change5m": -0.0000904848210240509,
+      "volatility5m": 0.00010602628001815473,
       "stability": "稳定",
-      "quoteVolume24h": 132569766.77015425,
-      "pair": "ALPHA_823USDT",
-      "listedDays": 16
+      "quoteVolume24h": 960106402.7279127,
+      "pair": "ALPHA_804USDT",
+      "listedDays": 28
     },
     {
       "shortSymbol": "EDGE",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.005680300759372647,
-      "volatility5m": 0.011338581415326074,
+      "change5m": -0.0011865973040644257,
+      "volatility5m": 0.0012841872683211333,
       "stability": "稳定",
-      "quoteVolume24h": 323549225.11927927,
+      "quoteVolume24h": 274792157.31736743,
       "pair": "ALPHA_838USDT",
       "listedDays": 10
+    },
+    {
+      "shortSymbol": "PRL",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.0012831662377066158,
+      "volatility5m": 0.001684696657303682,
+      "stability": "稳定",
+      "quoteVolume24h": 133640029.74649975,
+      "pair": "ALPHA_823USDT",
+      "listedDays": 16
     }
   ]
 }
