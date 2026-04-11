@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-04-11T03:56:19.926Z",
+  "updatedAt": "2026-04-11T05:27:35.647Z",
   "rows": [
     {
-      "shortSymbol": "BEAT",
+      "shortSymbol": "PRL",
       "chainId": "56",
-      "fourX": false,
-      "change5m": 0,
-      "volatility5m": 0,
+      "fourX": true,
+      "change5m": -0.0010405080764171663,
+      "volatility5m": 0.002442638293267763,
       "stability": "稳定",
-      "quoteVolume24h": 244363977.10850194,
-      "pair": "ALPHA_451USDT",
-      "listedDays": 161
+      "quoteVolume24h": 289427810.78485584,
+      "pair": "ALPHA_823USDT",
+      "listedDays": 17
     },
     {
       "shortSymbol": "UP",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.00025657472738937136,
-      "volatility5m": 0.0011326491340602966,
+      "change5m": -0.00028742641217552334,
+      "volatility5m": 0.0032502473310449865,
       "stability": "稳定",
-      "quoteVolume24h": 743077707.7154723,
+      "quoteVolume24h": 732590967.5459045,
       "pair": "ALPHA_804USDT",
       "listedDays": 29
+    },
+    {
+      "shortSymbol": "BEAT",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.002982499660187531,
+      "volatility5m": 0.0034888201712654507,
+      "stability": "稳定",
+      "quoteVolume24h": 243887535.14338118,
+      "pair": "ALPHA_451USDT",
+      "listedDays": 161
     },
     {
       "shortSymbol": "EDGE",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0025524286174018287,
-      "volatility5m": 0.003315342981318555,
+      "change5m": 0.004541875440185113,
+      "volatility5m": 0.005419830968910338,
       "stability": "稳定",
-      "quoteVolume24h": 84869627.69751233,
+      "quoteVolume24h": 90606116.26375313,
       "pair": "ALPHA_838USDT",
       "listedDays": 11
-    },
-    {
-      "shortSymbol": "PRL",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.012197402028372696,
-      "volatility5m": 0.012893951560575144,
-      "stability": "稳定",
-      "quoteVolume24h": 273647597.8630431,
-      "pair": "ALPHA_823USDT",
-      "listedDays": 17
     }
   ]
 }
