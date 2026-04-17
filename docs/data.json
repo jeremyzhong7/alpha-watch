@@ -1,36 +1,25 @@
 {
-  "updatedAt": "2026-04-17T19:42:10.666Z",
+  "updatedAt": "2026-04-17T20:28:57.652Z",
   "rows": [
     {
       "shortSymbol": "STABLE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0004422106711511597,
-      "volatility5m": 0.0004422106711511597,
+      "change5m": 0.00033805397926626004,
+      "volatility5m": 0.00047495819258901157,
       "stability": "稳定",
-      "quoteVolume24h": 680197324.6020771,
+      "quoteVolume24h": 678812583.2488108,
       "pair": "ALPHA_488USDT",
       "listedDays": 130
-    },
-    {
-      "shortSymbol": "EDGE",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.0038533405545353285,
-      "volatility5m": 0.009242239700150891,
-      "stability": "稳定",
-      "quoteVolume24h": 121907334.78675637,
-      "pair": "ALPHA_838USDT",
-      "listedDays": 17
     },
     {
       "shortSymbol": "SIREN",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.006807425957218868,
-      "volatility5m": 0.009522149295959998,
+      "change5m": -0.004349360371976441,
+      "volatility5m": 0.008696012704502484,
       "stability": "稳定",
-      "quoteVolume24h": 52263311.61180808,
+      "quoteVolume24h": 50567186.2268071,
       "pair": "ALPHA_102USDT",
       "listedDays": 365
     },
@@ -38,12 +27,23 @@
       "shortSymbol": "PRL",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.003868577184012242,
-      "volatility5m": 0.013773581368070624,
+      "change5m": 0.007151394959656587,
+      "volatility5m": 0.009559153062752667,
       "stability": "稳定",
-      "quoteVolume24h": 870246258.1881964,
+      "quoteVolume24h": 870733427.6327264,
       "pair": "ALPHA_823USDT",
       "listedDays": 23
+    },
+    {
+      "shortSymbol": "EDGE",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.006461985304604083,
+      "volatility5m": 0.009923083322310554,
+      "stability": "稳定",
+      "quoteVolume24h": 119847303.54423822,
+      "pair": "ALPHA_838USDT",
+      "listedDays": 17
     }
   ]
 }
