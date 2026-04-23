@@ -1,36 +1,25 @@
 {
-  "updatedAt": "2026-04-23T10:00:56.417Z",
+  "updatedAt": "2026-04-23T11:20:10.870Z",
   "rows": [
     {
       "shortSymbol": "GENIUS",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.00025873203186466977,
-      "volatility5m": 0.0023037632517415594,
+      "change5m": 0.00038213773826124684,
+      "volatility5m": 0.0007206269813257777,
       "stability": "稳定",
-      "quoteVolume24h": 411232740.2353835,
+      "quoteVolume24h": 466538954.25534654,
       "pair": "ALPHA_887USDT",
       "listedDays": 10
-    },
-    {
-      "shortSymbol": "TRIA",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.0020216911498919126,
-      "volatility5m": 0.0023769259010928273,
-      "stability": "稳定",
-      "quoteVolume24h": 328439117.5197969,
-      "pair": "ALPHA_669USDT",
-      "listedDays": 79
     },
     {
       "shortSymbol": "PRL",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.001595464724012746,
-      "volatility5m": 0.0032623723080260642,
+      "change5m": -0.0005023831775701173,
+      "volatility5m": 0.001045467289719651,
       "stability": "稳定",
-      "quoteVolume24h": 881935572.9453144,
+      "quoteVolume24h": 878876239.3427461,
       "pair": "ALPHA_823USDT",
       "listedDays": 29
     },
@@ -38,12 +27,23 @@
       "shortSymbol": "RTX",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.004560324640766404,
-      "volatility5m": 0.007780361894624861,
+      "change5m": -0.0011703324576501967,
+      "volatility5m": 0.002166794999547025,
       "stability": "稳定",
-      "quoteVolume24h": 111793438.45802294,
+      "quoteVolume24h": 193252559.55398077,
       "pair": "ALPHA_503USDT",
       "listedDays": 125
+    },
+    {
+      "shortSymbol": "TRIA",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.00915116781091536,
+      "volatility5m": 0.00915116781091536,
+      "stability": "稳定",
+      "quoteVolume24h": 225878698.51916966,
+      "pair": "ALPHA_669USDT",
+      "listedDays": 79
     }
   ]
 }
