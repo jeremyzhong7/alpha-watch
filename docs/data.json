@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T03:41:02.269Z",
+  "updatedAt": "2026-04-24T05:58:16.675Z",
   "rows": [
     {
       "shortSymbol": "RTX",
@@ -8,42 +8,42 @@
       "change5m": 0,
       "volatility5m": 0,
       "stability": "稳定",
-      "quoteVolume24h": 282960640.6659439,
+      "quoteVolume24h": 268612368.71002185,
       "pair": "ALPHA_503USDT",
       "listedDays": 126
-    },
-    {
-      "shortSymbol": "GENIUS",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.0005383365807607187,
-      "volatility5m": 0.0009290293505588266,
-      "stability": "稳定",
-      "quoteVolume24h": 564261024.6278797,
-      "pair": "ALPHA_887USDT",
-      "listedDays": 11
-    },
-    {
-      "shortSymbol": "SOON",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.00005403491019471362,
-      "volatility5m": 0.00277333670629914,
-      "stability": "稳定",
-      "quoteVolume24h": 142763442.70496628,
-      "pair": "ALPHA_199USDT",
-      "listedDays": 336
     },
     {
       "shortSymbol": "PRL",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0027433723732082447,
-      "volatility5m": 0.00279768217981413,
+      "change5m": 0.004254207919507152,
+      "volatility5m": 0.005056964520428131,
       "stability": "稳定",
-      "quoteVolume24h": 680663677.3404343,
+      "quoteVolume24h": 524979950.0307073,
       "pair": "ALPHA_823USDT",
       "listedDays": 30
+    },
+    {
+      "shortSymbol": "SOON",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.001061491954532302,
+      "volatility5m": 0.0055633596416355836,
+      "stability": "稳定",
+      "quoteVolume24h": 259300045.87143302,
+      "pair": "ALPHA_199USDT",
+      "listedDays": 336
+    },
+    {
+      "shortSymbol": "GENIUS",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.007905715233831014,
+      "volatility5m": 0.00834633892539663,
+      "stability": "稳定",
+      "quoteVolume24h": 632610101.4024277,
+      "pair": "ALPHA_887USDT",
+      "listedDays": 11
     }
   ]
 }
