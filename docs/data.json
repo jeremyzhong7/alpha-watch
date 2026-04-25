@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-04-25T21:04:56.536Z",
+  "updatedAt": "2026-04-25T21:52:04.516Z",
   "rows": [
-    {
-      "shortSymbol": "CRCLon",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0,
-      "volatility5m": 0,
-      "stability": "稳定",
-      "quoteVolume24h": 386634211.525602,
-      "pair": "ALPHA_742USDT",
-      "listedDays": 60
-    },
     {
       "shortSymbol": "SOON",
       "chainId": "56",
       "fourX": false,
-      "change5m": -0.0013571785571775115,
-      "volatility5m": 0.004297066960843357,
+      "change5m": 0.0008776424311211701,
+      "volatility5m": 0.0015668787526199285,
       "stability": "稳定",
-      "quoteVolume24h": 60083077.70775407,
+      "quoteVolume24h": 58016763.7301051,
       "pair": "ALPHA_199USDT",
       "listedDays": 337
     },
     {
-      "shortSymbol": "OPG",
+      "shortSymbol": "CRCLon",
       "chainId": "56",
-      "fourX": true,
-      "change5m": 0.004295864038465583,
-      "volatility5m": 0.008737692175252804,
+      "fourX": false,
+      "change5m": -0.003018716039444528,
+      "volatility5m": 0.003018716039444528,
       "stability": "稳定",
-      "quoteVolume24h": 51187197.84747956,
-      "pair": "ALPHA_931USDT",
-      "listedDays": 4
+      "quoteVolume24h": 386640706.599331,
+      "pair": "ALPHA_742USDT",
+      "listedDays": 60
     },
     {
       "shortSymbol": "GENIUS",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.005470381698824773,
-      "volatility5m": 0.012548848408855461,
+      "change5m": -0.0020834635988408105,
+      "volatility5m": 0.004156213225607994,
       "stability": "稳定",
-      "quoteVolume24h": 1005204659.7521354,
+      "quoteVolume24h": 1006146435.20281,
       "pair": "ALPHA_887USDT",
       "listedDays": 12
+    },
+    {
+      "shortSymbol": "OPG",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.003851075982781955,
+      "volatility5m": 0.004416079047758321,
+      "stability": "稳定",
+      "quoteVolume24h": 51319313.68651192,
+      "pair": "ALPHA_931USDT",
+      "listedDays": 4
     }
   ]
 }
