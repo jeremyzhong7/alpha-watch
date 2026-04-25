@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-04-25T15:26:54.403Z",
+  "updatedAt": "2026-04-25T16:07:40.446Z",
   "rows": [
     {
       "shortSymbol": "CRCLon",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0,
+      "change5m": -0.00010052271813434977,
       "volatility5m": 0.00010052271813434977,
       "stability": "稳定",
-      "quoteVolume24h": 380926276.731175,
+      "quoteVolume24h": 384998241.792991,
       "pair": "ALPHA_742USDT",
       "listedDays": 60
-    },
-    {
-      "shortSymbol": "OPG",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.0003822022626418949,
-      "volatility5m": 0.001968617715458921,
-      "stability": "稳定",
-      "quoteVolume24h": 52084701.65034743,
-      "pair": "ALPHA_931USDT",
-      "listedDays": 4
-    },
-    {
-      "shortSymbol": "SOON",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.0017594098912615598,
-      "volatility5m": 0.0038020978766283857,
-      "stability": "稳定",
-      "quoteVolume24h": 94669803.91592358,
-      "pair": "ALPHA_199USDT",
-      "listedDays": 337
     },
     {
       "shortSymbol": "GENIUS",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.0010515898500751846,
-      "volatility5m": 0.00410597595496169,
+      "change5m": 0.0022696667558588964,
+      "volatility5m": 0.006033159399162542,
       "stability": "稳定",
-      "quoteVolume24h": 982330076.5515666,
+      "quoteVolume24h": 987293102.9097681,
       "pair": "ALPHA_887USDT",
       "listedDays": 12
+    },
+    {
+      "shortSymbol": "SOON",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": 0.0037186233468323037,
+      "volatility5m": 0.007388201848302854,
+      "stability": "稳定",
+      "quoteVolume24h": 86102224.9241307,
+      "pair": "ALPHA_199USDT",
+      "listedDays": 337
+    },
+    {
+      "shortSymbol": "OPG",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.003525496176478125,
+      "volatility5m": 0.009756217283195846,
+      "stability": "稳定",
+      "quoteVolume24h": 52311140.13021761,
+      "pair": "ALPHA_931USDT",
+      "listedDays": 4
     }
   ]
 }
