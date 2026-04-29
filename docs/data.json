@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-04-29T04:53:29.792Z",
+  "updatedAt": "2026-04-29T07:23:05.899Z",
   "rows": [
     {
       "shortSymbol": "GENIUS",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0016247473819584388,
-      "volatility5m": 0.0019430828587175847,
+      "change5m": 0.0013927794621670575,
+      "volatility5m": 0.0021926417982886816,
       "stability": "稳定",
-      "quoteVolume24h": 1077242604.5165942,
+      "quoteVolume24h": 1056022915.8604306,
       "pair": "ALPHA_887USDT",
       "listedDays": 16
     },
@@ -16,12 +16,23 @@
       "shortSymbol": "PIEVERSE",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0005419554010044772,
-      "volatility5m": 0.0034916684985292082,
+      "change5m": -0.005336313869325112,
+      "volatility5m": 0.009269399573500085,
       "stability": "稳定",
-      "quoteVolume24h": 366908922.37579876,
+      "quoteVolume24h": 308876994.3691761,
       "pair": "ALPHA_469USDT",
       "listedDays": 166
+    },
+    {
+      "shortSymbol": "JCT",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.009772204249074419,
+      "volatility5m": 0.019452689857586032,
+      "stability": "稳定",
+      "quoteVolume24h": 54652311.1760712,
+      "pair": "ALPHA_466USDT",
+      "listedDays": 170
     }
   ]
 }
