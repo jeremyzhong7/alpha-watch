@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-04-30T17:44:50.334Z",
+  "updatedAt": "2026-04-30T19:01:15.292Z",
   "rows": [
     {
       "shortSymbol": "CRCLon",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.0004368719965049371,
-      "volatility5m": 0.0007645259938837176,
+      "change5m": -0.0010936132983376456,
+      "volatility5m": 0.0010936132983376456,
       "stability": "稳定",
-      "quoteVolume24h": 67334165.7646491,
+      "quoteVolume24h": 67151732.401106,
       "pair": "ALPHA_742USDT",
       "listedDays": 65
-    },
-    {
-      "shortSymbol": "OPG",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.0018357360258068481,
-      "volatility5m": 0.005103747106745221,
-      "stability": "稳定",
-      "quoteVolume24h": 92316339.15959656,
-      "pair": "ALPHA_931USDT",
-      "listedDays": 9
     },
     {
       "shortSymbol": "GENIUS",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.003335026338579754,
-      "volatility5m": 0.008871395445896536,
+      "change5m": 0.005946195464346149,
+      "volatility5m": 0.008172900410867373,
       "stability": "稳定",
-      "quoteVolume24h": 1211475981.9877293,
+      "quoteVolume24h": 1218261872.7217996,
       "pair": "ALPHA_887USDT",
       "listedDays": 17
+    },
+    {
+      "shortSymbol": "OPG",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.006845509840676815,
+      "volatility5m": 0.008475182886100547,
+      "stability": "稳定",
+      "quoteVolume24h": 96060021.07840346,
+      "pair": "ALPHA_931USDT",
+      "listedDays": 9
     }
   ]
 }
