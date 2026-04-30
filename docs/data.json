@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-04-30T06:40:11.038Z",
+  "updatedAt": "2026-04-30T09:04:22.842Z",
   "rows": [
     {
       "shortSymbol": "TRIA",
       "chainId": "56",
       "fourX": false,
       "change5m": 0,
-      "volatility5m": 0,
+      "volatility5m": 0.00010435065020443968,
       "stability": "稳定",
-      "quoteVolume24h": 472379414.4964613,
+      "quoteVolume24h": 363191729.08939946,
       "pair": "ALPHA_669USDT",
       "listedDays": 86
-    },
-    {
-      "shortSymbol": "JCT",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": -0.0002188459523446305,
-      "volatility5m": 0.0002188459523446305,
-      "stability": "稳定",
-      "quoteVolume24h": 355614761.95528996,
-      "pair": "ALPHA_466USDT",
-      "listedDays": 171
-    },
-    {
-      "shortSymbol": "GENIUS",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.00002830533176231973,
-      "volatility5m": 0.0002335423412732852,
-      "stability": "稳定",
-      "quoteVolume24h": 1038572908.0943383,
-      "pair": "ALPHA_887USDT",
-      "listedDays": 17
     },
     {
       "shortSymbol": "OPG",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.00019460069755558408,
-      "volatility5m": 0.00043236516354099757,
+      "change5m": 0.0010541797075712496,
+      "volatility5m": 0.0058753926063476805,
       "stability": "稳定",
-      "quoteVolume24h": 56642753.7948031,
+      "quoteVolume24h": 59705933.48806436,
       "pair": "ALPHA_931USDT",
       "listedDays": 9
+    },
+    {
+      "shortSymbol": "GENIUS",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.0012274477186312394,
+      "volatility5m": 0.007798597908745174,
+      "stability": "稳定",
+      "quoteVolume24h": 1074992628.5807,
+      "pair": "ALPHA_887USDT",
+      "listedDays": 17
+    },
+    {
+      "shortSymbol": "JCT",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.017611755576728432,
+      "volatility5m": 0.03530863954999809,
+      "stability": "稳定",
+      "quoteVolume24h": 281594740.6350738,
+      "pair": "ALPHA_466USDT",
+      "listedDays": 171
     }
   ]
 }
