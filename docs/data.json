@@ -1,36 +1,25 @@
 {
-  "updatedAt": "2026-05-07T21:40:39.516Z",
+  "updatedAt": "2026-05-07T22:44:29.893Z",
   "rows": [
     {
       "shortSymbol": "ST",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0,
-      "volatility5m": 1.257861634558043e-7,
+      "change5m": 0.001978176612762954,
+      "volatility5m": 0.0035494726508630667,
       "stability": "稳定",
-      "quoteVolume24h": 244204304.24235222,
+      "quoteVolume24h": 244069365.86318043,
       "pair": "ALPHA_889USDT",
       "listedDays": 22
-    },
-    {
-      "shortSymbol": "GENIUS",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": -0.0002804264778208157,
-      "volatility5m": 0.0002804264778208157,
-      "stability": "稳定",
-      "quoteVolume24h": 81007135.2338021,
-      "pair": "ALPHA_887USDT",
-      "listedDays": 24
     },
     {
       "shortSymbol": "ACU",
       "chainId": "56",
       "fourX": false,
-      "change5m": 0.00001903856342620232,
-      "volatility5m": 0.0007713337982369317,
+      "change5m": -0.0045256519803666745,
+      "volatility5m": 0.005008957038741499,
       "stability": "稳定",
-      "quoteVolume24h": 721997309.8011647,
+      "quoteVolume24h": 721995957.7233406,
       "pair": "ALPHA_587USDT",
       "listedDays": 107
     },
@@ -38,12 +27,23 @@
       "shortSymbol": "OPG",
       "chainId": "56",
       "fourX": true,
-      "change5m": 0.0025342569460999297,
-      "volatility5m": 0.002712827629150539,
+      "change5m": 0.005294011269447608,
+      "volatility5m": 0.006517589815405533,
       "stability": "稳定",
-      "quoteVolume24h": 916951100.7277014,
+      "quoteVolume24h": 917461878.1437634,
       "pair": "ALPHA_931USDT",
       "listedDays": 16
+    },
+    {
+      "shortSymbol": "GENIUS",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": -0.006017581231612551,
+      "volatility5m": 0.00954137537094102,
+      "stability": "稳定",
+      "quoteVolume24h": 80425584.32951757,
+      "pair": "ALPHA_887USDT",
+      "listedDays": 24
     }
   ]
 }
