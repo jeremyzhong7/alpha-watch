@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-05-08T11:07:00.859Z",
+  "updatedAt": "2026-05-08T12:18:50.840Z",
   "rows": [
-    {
-      "shortSymbol": "ACU",
-      "chainId": "56",
-      "fourX": false,
-      "change5m": 0.000006039570112999999,
-      "volatility5m": 0.0012307301763573395,
-      "stability": "稳定",
-      "quoteVolume24h": 233796280.8927959,
-      "pair": "ALPHA_587USDT",
-      "listedDays": 108
-    },
     {
       "shortSymbol": "ST",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.001461376237907766,
-      "volatility5m": 0.0025475025481542474,
+      "change5m": 0.0012216527103332728,
+      "volatility5m": 0.0034772035899087554,
       "stability": "稳定",
-      "quoteVolume24h": 238350356.46070006,
+      "quoteVolume24h": 249157300.45660904,
       "pair": "ALPHA_889USDT",
       "listedDays": 23
-    },
-    {
-      "shortSymbol": "OPG",
-      "chainId": "56",
-      "fourX": true,
-      "change5m": 0.0017559033450770575,
-      "volatility5m": 0.0035894202105936,
-      "stability": "稳定",
-      "quoteVolume24h": 1037209949.7258782,
-      "pair": "ALPHA_931USDT",
-      "listedDays": 17
     },
     {
       "shortSymbol": "GENIUS",
       "chainId": "56",
       "fourX": true,
-      "change5m": -0.005371379619753989,
-      "volatility5m": 0.007057745744295257,
+      "change5m": 0.0005701271544359496,
+      "volatility5m": 0.0036206139901216027,
       "stability": "稳定",
-      "quoteVolume24h": 69481484.4195643,
+      "quoteVolume24h": 67962096.44693173,
       "pair": "ALPHA_887USDT",
       "listedDays": 25
+    },
+    {
+      "shortSymbol": "OPG",
+      "chainId": "56",
+      "fourX": true,
+      "change5m": 0.005604171829822302,
+      "volatility5m": 0.006544940107393642,
+      "stability": "稳定",
+      "quoteVolume24h": 1052622661.0662411,
+      "pair": "ALPHA_931USDT",
+      "listedDays": 17
+    },
+    {
+      "shortSymbol": "ACU",
+      "chainId": "56",
+      "fourX": false,
+      "change5m": -0.01597254507553308,
+      "volatility5m": 0.02580774580126498,
+      "stability": "稳定",
+      "quoteVolume24h": 86069796.19606178,
+      "pair": "ALPHA_587USDT",
+      "listedDays": 108
     }
   ]
 }
